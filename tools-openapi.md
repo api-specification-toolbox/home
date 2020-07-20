@@ -1,617 +1,256 @@
 # OpenAPI Tools
-This is a list of open source tools that are built on top of the OpenAPI specification.
+This is a list of open source tools that are built on top of the OpenAPI 3.0 specification.
 
-- 3Scale[http://www.3scale.net](http://www.3scale.net) - [https://twitter.com/3scale](https://twitter.com/3scale)- [https://github.com/3scale](https://github.com/3scale)
-- 42Crunch[http://www.42crunch.com](http://www.42crunch.com) - [https://twitter.com/42crunch](https://twitter.com/42crunch)- [https://github.com/42crunch](https://github.com/42crunch)
-- aapi.io[https://aapi.io](https://aapi.io) - [https://twitter.com/AAPI_io](https://twitter.com/AAPI_io)
-- Accelerated Mobile Pages URL[https://amp.dev/](https://amp.dev/) - [https://twitter.com/amphtml](https://twitter.com/amphtml)- [https://github.com/ampproject/amphtml/issues](https://github.com/ampproject/amphtml/issues)
-- AddThis[http://addthis.com](http://addthis.com) - [https://twitter.com/addthis](https://twitter.com/addthis)
-- Adigami[http://www.adigami.com](http://www.adigami.com) - [https://twitter.com/adigami](https://twitter.com/adigami)- [https://github.com/adigami](https://github.com/adigami)
-- AIKON[http://aikon.com](http://aikon.com) - [https://twitter.com/TeamAIKON](https://twitter.com/TeamAIKON)- [https://github.com/Open-Rights-Exchange](https://github.com/Open-Rights-Exchange)
-- Algorithmia[https://algorithmia.com/](https://algorithmia.com/) - [https://twitter.com/algorithmia](https://twitter.com/algorithmia)- [https://github.com/algorithmiaio](https://github.com/algorithmiaio)
-- Anodot[http://www.anodot.com](http://www.anodot.com)
-- Ansible[http://www.ansible.com](http://www.ansible.com) - [https://twitter.com/ansible](https://twitter.com/ansible)- [https://github.com/ansible/awx](https://github.com/ansible/awx)
-- API Academy[http://apiacademy.co](http://apiacademy.co) - [https://twitter.com/apiacademy](https://twitter.com/apiacademy)
-- API Docs[https://api-docs.io](https://api-docs.io) - [https://twitter.com/API_Docs](https://twitter.com/API_Docs)
-- API Fortress[http://apifortress.com](http://apifortress.com) - [https://twitter.com/apifortress](https://twitter.com/apifortress)
-- API Platform[https://api-platform.com](https://api-platform.com) - [https://twitter.com/ApiPlatform](https://twitter.com/ApiPlatform)- [https://github.com/EnMarche/en-marche.fr](https://github.com/EnMarche/en-marche.fr)
-- API Science[https://www.apiscience.com](https://www.apiscience.com) - [https://twitter.com/APIScience](https://twitter.com/APIScience)
-- API Strategy & Practice[https://events.linuxfoundation.org/events/apistrat-2018/](https://events.linuxfoundation.org/events/apistrat-2018/) - [https://twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
-- API Stylebook[http://apistylebook.com](http://apistylebook.com) - [https://twitter.com/apistylebook](https://twitter.com/apistylebook)
-- API Support[http://apisupport.itassist.com](http://apisupport.itassist.com) - [https://twitter.com/api_support](https://twitter.com/api_support)
-- API Transformer[https://apitransformer.com/](https://apitransformer.com/)
-- API Umbrella[https://apiumbrella.io/](https://apiumbrella.io/) - [https://github.com/NREL/api-umbrella](https://github.com/NREL/api-umbrella)
-- API Workbench[http://apiworkbench.com/](http://apiworkbench.com/)
-- Apiary[http://apiary.io/](http://apiary.io/) - [https://twitter.com/apiaryio](https://twitter.com/apiaryio)- [https://github.com/apiaryio](https://github.com/apiaryio)
-- ApiAxle[http://apiaxle.com](http://apiaxle.com) - [https://twitter.com/apiaxle](https://twitter.com/apiaxle)- [https://github.com/apiaxle](https://github.com/apiaxle)
-- APIBond[http://www.apibond.com](http://www.apibond.com) - [https://twitter.com/apibond](https://twitter.com/apibond)
-- Apica[http://www.apicasystems.com](http://www.apicasystems.com) - [https://twitter.com/apicasystems](https://twitter.com/apicasystems)- [https://github.com/ApicaSystem](https://github.com/ApicaSystem)
-- Apicurio[https://www.apicur.io/](https://www.apicur.io/)
-- APIdays Global[http://www.apidays.co](http://www.apidays.co) - [https://twitter.com/APIdaysGlobal](https://twitter.com/APIdaysGlobal)
-- Apidox[http://apidox.net](http://apidox.net)
-- APIEmbed[https://apiembed.com/](https://apiembed.com/) - [https://twitter.com/share](https://twitter.com/share)- [https://github.com/Kong/apiembed/stargazers](https://github.com/Kong/apiembed/stargazers)
-- Apifier[https://www.apifier.com/](https://www.apifier.com/) - [https://twitter.com/apify](https://twitter.com/apify)- [https://github.com/apifytech](https://github.com/apifytech)
-- APIFul[http://www.apiful.io/](http://www.apiful.io/)
-- Apify[http://www.apify.co](http://www.apify.co) - [https://twitter.com/apify](https://twitter.com/apify)- [https://github.com/apifytech](https://github.com/apifytech)
-- Apigee[https://cloud.google.com/apigee/](https://cloud.google.com/apigee/)
-- Apigee API Studio[http://apistudio.io/](http://apistudio.io/)
-- Apigility[http://www.apigility.org](http://www.apigility.org) - [https://twitter.com/Apigility](https://twitter.com/Apigility)- [https://github.com/zfcampus](https://github.com/zfcampus)
-- APIHound[http://apihound.com/apifinder](http://apihound.com/apifinder) - [https://twitter.com/apihound](https://twitter.com/apihound)
-- APILayer[http://apilayer.com](http://apilayer.com) - [https://twitter.com/apilayer](https://twitter.com/apilayer)- [https://github.com/apilayer](https://github.com/apilayer)
-- apilayer.com[]()
-- apilayer.com []()
-- APIMan[http://apiman.io](http://apiman.io) - [https://twitter.com/apiman_io](https://twitter.com/apiman_io)- [https://github.com/apiman](https://github.com/apiman)
-- APIMATIC[http://apimatic.io](http://apimatic.io) - [https://twitter.com/apimatic](https://twitter.com/apimatic)- [https://github.com/apimatic](https://github.com/apimatic)
-- APIMetrics[http://apimetrics.io](http://apimetrics.io) - [https://twitter.com/apimetricstats](https://twitter.com/apimetricstats)- [https://github.com/APImetrics](https://github.com/APImetrics)
-- Apimint[https://www.apimint.com](https://www.apimint.com) - [https://twitter.com/apimint_app](https://twitter.com/apimint_app)
-- APIs.Guru[http://apis.guru](http://apis.guru) - [https://twitter.com/APIs_guru](https://twitter.com/APIs_guru)- [https://github.com/APIs-guru/api-models](https://github.com/APIs-guru/api-models)
-- APIs.io[http://apis.io](http://apis.io) - [https://twitter.com/apisio](https://twitter.com/apisio)- [https://github.com/apisio](https://github.com/apisio)
-- APIs.json[http://apisjson.org](http://apisjson.org) - [https://twitter.com/APIsjson](https://twitter.com/APIsjson)- [https://github.com/apis-json/api-json/issues](https://github.com/apis-json/api-json/issues)
-- Apitive - www.apitive.com[http://www.apitive.com](http://www.apitive.com)
-- APIWorld[http://apiworld.co](http://apiworld.co) - [https://twitter.com/apiworld](https://twitter.com/apiworld)
-- Apollo[http://www.apollographql.com](http://www.apollographql.com) - [https://twitter.com/apollographql](https://twitter.com/apollographql)- [https://github.com/apollographql](https://github.com/apollographql)
-- Appcelerator[http://www.appcelerator.com/](http://www.appcelerator.com/) - [https://twitter.com/axway](https://twitter.com/axway)- [https://github.com/Axway-syncplicity/](https://github.com/Axway-syncplicity/)
-- Appery.io[http://appery.io](http://appery.io) - [http://twitter.com/apperyio](http://twitter.com/apperyio)
-- AppNeta[http://www.appneta.com](http://www.appneta.com) - [https://twitter.com/Appneta](https://twitter.com/Appneta)
-- AppNexus[http://www.appnexus.com](http://www.appnexus.com) - [https://twitter.com/xandr76](https://twitter.com/xandr76)- [https://github.com/appnexus](https://github.com/appnexus)
-- Apprenda[http://www.apprenda.com](http://www.apprenda.com) - [https://twitter.com/apprenda](https://twitter.com/apprenda)
-- AppScale Systems[http://www.appscale.com](http://www.appscale.com) - [https://twitter.com/appscalecloud](https://twitter.com/appscalecloud)
-- Appsee[http://www.appsee.com](http://www.appsee.com) - [https://twitter.com/Appseecom](https://twitter.com/Appseecom)
-- AppsFlyer[http://www.appsflyer.com](http://www.appsflyer.com) - [https://twitter.com/appsflyer](https://twitter.com/appsflyer)
-- AppsGeyser[http://www.appsgeyser.com/](http://www.appsgeyser.com/) - [http://twitter.com/appsgeyser](http://twitter.com/appsgeyser)
-- AppVeyor[http://www.appveyor.com](http://www.appveyor.com) - [https://twitter.com/appveyor](https://twitter.com/appveyor)- [https://github.com/AppVeyor](https://github.com/AppVeyor)
-- ArangoDB[http://www.arangodb.com](http://www.arangodb.com) - [https://twitter.com/arangodb](https://twitter.com/arangodb)- [https://github.com/arangodb/arangodb/stargazers](https://github.com/arangodb/arangodb/stargazers)
-- Ardoq[http://www.ardoq.com](http://www.ardoq.com) - [https://twitter.com/ardoqcom](https://twitter.com/ardoqcom)- [https://github.com/ardoq](https://github.com/ardoq)
-- Asana[http://forum.asana.com](http://forum.asana.com) - [https://twitter.com/intent/follow?screen_name=asana](https://twitter.com/intent/follow?screen_name=asana)
-- Aspen Mesh[http://aspenmesh.io](http://aspenmesh.io) - [https://twitter.com/AspenMesh](https://twitter.com/AspenMesh)- [https://github.com/aspenmesh](https://github.com/aspenmesh)
-- Assertible[https://assertible.com](https://assertible.com) - [https://twitter.com/AssertibleApp](https://twitter.com/AssertibleApp)- [https://github.com/assertible](https://github.com/assertible)
-- Atlassian[http://community.atlassian.com](http://community.atlassian.com) - [https://twitter.com/atlassian](https://twitter.com/atlassian)- [https://github.com/atlassian](https://github.com/atlassian)
-- Atom Editor[http://atom.io](http://atom.io) - [https://twitter.com/atomeditor](https://twitter.com/atomeditor)- [https://github.com](https://github.com)
-- Atooma - Resonance AI[http://www.resonance-ai.com](http://www.resonance-ai.com) - [https://twitter.com/ResonanceAI](https://twitter.com/ResonanceAI)
-- Augmate[]()
-- Auth0[https://auth0.com](https://auth0.com) - [https://twitter.com/auth0](https://twitter.com/auth0)- [https://github.com/auth0](https://github.com/auth0)
-- Authenticating.com[https://authenticating.com/](https://authenticating.com/)
-- Authentiq Connect[http://authentiq.com](http://authentiq.com) - [https://twitter.com/AuthentiqID](https://twitter.com/AuthentiqID)- [https://github.com/AuthentiqID](https://github.com/AuthentiqID)
-- AuthorityLabs[https://authoritylabs.com](https://authoritylabs.com) - [https://twitter.com/authoritylabs](https://twitter.com/authoritylabs)- [https://github.com/authoritylabs](https://github.com/authoritylabs)
-- Automox[http://www.automox.com](http://www.automox.com) - [http://twitter.com/rootmetrics](http://twitter.com/rootmetrics)
-- Avatars.io[http://avatars.io/](http://avatars.io/) - [https://github.com/chute/avatars-io](https://github.com/chute/avatars-io)
-- AWS API Gateway[https://aws.amazon.com/api-gateway/](https://aws.amazon.com/api-gateway/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS AppStream[https://aws.amazon.com/appstream2/](https://aws.amazon.com/appstream2/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Auto Scaling[https://aws.amazon.com/autoscaling/](https://aws.amazon.com/autoscaling/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Batch[https://aws.amazon.com/batch/](https://aws.amazon.com/batch/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Certificate Manager[https://aws.amazon.com/certificate-manager/](https://aws.amazon.com/certificate-manager/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CloudFormation[https://aws.amazon.com/cloudformation/](https://aws.amazon.com/cloudformation/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CloudFront[https://aws.amazon.com/cloudfront/](https://aws.amazon.com/cloudfront/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CloudHSM[https://aws.amazon.com/cloudhsm/](https://aws.amazon.com/cloudhsm/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CloudSearch[https://aws.amazon.com/cloudsearch/](https://aws.amazon.com/cloudsearch/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CloudWatch[https://aws.amazon.com/cloudwatch/](https://aws.amazon.com/cloudwatch/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Code Pipeline[https://aws.amazon.com/datapipeline/](https://aws.amazon.com/datapipeline/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CodeBuild[https://aws.amazon.com/codebuild/](https://aws.amazon.com/codebuild/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CodeCommit[https://aws.amazon.com/codecommit/](https://aws.amazon.com/codecommit/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS CodeDeploy[https://aws.amazon.com/codedeploy/](https://aws.amazon.com/codedeploy/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Cognito[https://aws.amazon.com/cognito/](https://aws.amazon.com/cognito/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Config[https://aws.amazon.com/config/](https://aws.amazon.com/config/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Data Pipeline[https://aws.amazon.com/datapipeline/](https://aws.amazon.com/datapipeline/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Database Migration Service[https://aws.amazon.com/dms/](https://aws.amazon.com/dms/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Device Farm[https://aws.amazon.com/device-farm/](https://aws.amazon.com/device-farm/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Direct Connect[https://aws.amazon.com/directconnect/](https://aws.amazon.com/directconnect/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Directory Service[https://aws.amazon.com/directoryservice/](https://aws.amazon.com/directoryservice/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS DynamoDB[https://aws.amazon.com/dynamodb/](https://aws.amazon.com/dynamodb/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)- [https://github.com/awslabs/lambda-refarch-webapp/](https://github.com/awslabs/lambda-refarch-webapp/)
-- AWS EC2[https://aws.amazon.com/ec2/](https://aws.amazon.com/ec2/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS EC2 Container Registry Service[https://aws.amazon.com/ecr/](https://aws.amazon.com/ecr/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS EC2 Container Service[https://aws.amazon.com/ecs/](https://aws.amazon.com/ecs/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS EC2 Systems Manager[https://aws.amazon.com/ec2/systems-manager/](https://aws.amazon.com/ec2/systems-manager/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Elastic Beanstalk[https://aws.amazon.com/elasticbeanstalk/](https://aws.amazon.com/elasticbeanstalk/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Elastic Load Balancing[https://aws.amazon.com/elasticloadbalancing/](https://aws.amazon.com/elasticloadbalancing/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Elastic MapReduce[https://aws.amazon.com/emr/](https://aws.amazon.com/emr/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS ElastiCache[https://aws.amazon.com/elasticache/](https://aws.amazon.com/elasticache/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Elasticsearch Service[https://aws.amazon.com/elasticsearch-service/](https://aws.amazon.com/elasticsearch-service/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Glacier[https://aws.amazon.com/glacier/](https://aws.amazon.com/glacier/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Identity and Access Management[https://aws.amazon.com/iam/](https://aws.amazon.com/iam/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Inspector[https://aws.amazon.com/inspector/](https://aws.amazon.com/inspector/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Internet of Things[https://aws.amazon.com/iot-platform/](https://aws.amazon.com/iot-platform/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Io T Jobs Data Plane[http://data.jobs.iot.amazonaws.com](http://data.jobs.iot.amazonaws.com)
-- AWS Key Management Service[https://aws.amazon.com/kms/](https://aws.amazon.com/kms/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Kinesis[https://aws.amazon.com/kinesis/](https://aws.amazon.com/kinesis/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)- [https://github.com/awslabs/aws-weathergen](https://github.com/awslabs/aws-weathergen)
-- AWS Kinesis Analytics[https://aws.amazon.com/kinesis/analytics/](https://aws.amazon.com/kinesis/analytics/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Lambda[http://docs.aws.amazon.com/lambda/](http://docs.aws.amazon.com/lambda/)
-- AWS Lightsale[https://amazonlightsail.com/](https://amazonlightsail.com/)
-- AWS Machine Learning[https://aws.amazon.com/machine-learning/](https://aws.amazon.com/machine-learning/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Marketplace Metering Service[https://aws.amazon.com/marketplace/](https://aws.amazon.com/marketplace/)
-- AWS OpsWorks[https://aws.amazon.com/opsworks/](https://aws.amazon.com/opsworks/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Pinpoint[https://aws.amazon.com/pinpoint/](https://aws.amazon.com/pinpoint/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Polly[https://aws.amazon.com/polly/](https://aws.amazon.com/polly/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Price List Service[https://projects.apache.org](https://projects.apache.org) - [https://twitter.com/apachekafka](https://twitter.com/apachekafka)
-- AWS RDS[https://aws.amazon.com/rds/](https://aws.amazon.com/rds/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Redshift[https://aws.amazon.com/redshift/](https://aws.amazon.com/redshift/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Rekognition[https://aws.amazon.com/rekognition/](https://aws.amazon.com/rekognition/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Route 53[https://aws.amazon.com/route53/](https://aws.amazon.com/route53/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS S3[https://aws.amazon.com/s3/](https://aws.amazon.com/s3/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Security Token Service[http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html](http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html)
-- AWS Server Migration Service[https://aws.amazon.com/server-migration-service/](https://aws.amazon.com/server-migration-service/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Service Catalog[https://aws.amazon.com/servicecatalog/](https://aws.amazon.com/servicecatalog/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Shield[https://aws.amazon.com/shield/](https://aws.amazon.com/shield/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Simple Email Service[https://aws.amazon.com/ses/](https://aws.amazon.com/ses/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Simple Notification Service[https://aws.amazon.com/sns/](https://aws.amazon.com/sns/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Simple Queue Service[https://aws.amazon.com/sqs/](https://aws.amazon.com/sqs/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Snowball[https://aws.amazon.com/snowball/](https://aws.amazon.com/snowball/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS startups[http://aws.amazon.com/startups](http://aws.amazon.com/startups) - [https://twitter.com/awsstartups](https://twitter.com/awsstartups)
-- AWS Step Functions[https://aws.amazon.com/step-functions/](https://aws.amazon.com/step-functions/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS Storage Gateway Service[https://aws.amazon.com/storagegateway/](https://aws.amazon.com/storagegateway/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS WAF[https://aws.amazon.com/waf/](https://aws.amazon.com/waf/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS WorkDocs[https://aws.amazon.com/workdocs/](https://aws.amazon.com/workdocs/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS WorkSpaces[https://aws.amazon.com/workspaces/](https://aws.amazon.com/workspaces/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWS X-Ray[https://aws.amazon.com/xray/](https://aws.amazon.com/xray/) - [https://twitter.com/awscloud](https://twitter.com/awscloud)
-- AWSMarketplace Metering[https://docs.aws.amazon.com/marketplacemetering/latest/APIReference/Welcome.html](https://docs.aws.amazon.com/marketplacemetering/latest/APIReference/Welcome.html)
-- Axway[https://www.axway.com/en](https://www.axway.com/en) - [https://twitter.com/axway](https://twitter.com/axway)- [https://github.com/Axway-syncplicity/](https://github.com/Axway-syncplicity/)
-- Azure Advisor[https://azure.microsoft.com/en-us/services/advisor/](https://azure.microsoft.com/en-us/services/advisor/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Analysis Services[https://azure.microsoft.com/en-us/services/analysis-services/](https://azure.microsoft.com/en-us/services/analysis-services/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure API Management[https://azure.microsoft.com/en-us/services/api-management/](https://azure.microsoft.com/en-us/services/api-management/) - [https://twitter.com/azure](https://twitter.com/azure)- [https://azure.github.io/api-management-resources/](https://azure.github.io/api-management-resources/)
-- Azure Application Insights[https://azure.microsoft.com/en-us/services/application-insights/](https://azure.microsoft.com/en-us/services/application-insights/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Automation[https://azure.microsoft.com/en-us/services/automation/](https://azure.microsoft.com/en-us/services/automation/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Batch[https://azure.microsoft.com/en-us/services/batch/](https://azure.microsoft.com/en-us/services/batch/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Billing API[https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview](https://docs.microsoft.com/en-us/azure/billing/billing-usage-rate-card-overview)
-- Azure CDN[https://azure.microsoft.com/en-us/services/cdn/](https://azure.microsoft.com/en-us/services/cdn/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Cognitive Services[https://azure.microsoft.com/en-us/services/cognitive-services/](https://azure.microsoft.com/en-us/services/cognitive-services/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Container Registry[https://azure.microsoft.com/en-us/services/container-registry/](https://azure.microsoft.com/en-us/services/container-registry/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Container Service[https://azure.microsoft.com/en-us/services/container-service/](https://azure.microsoft.com/en-us/services/container-service/) - [https://twitter.com/azure](https://twitter.com/azure)- [https://github.com/Azure/AKS](https://github.com/Azure/AKS)
-- Azure Data Lake Analytics[https://azure.microsoft.com/en-us/services/data-lake-analytics/](https://azure.microsoft.com/en-us/services/data-lake-analytics/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Data Lake Store[https://azure.microsoft.com/en-us/services/data-lake-store/](https://azure.microsoft.com/en-us/services/data-lake-store/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure DevTest Labs[https://azure.microsoft.com/en-us/services/devtest-lab/](https://azure.microsoft.com/en-us/services/devtest-lab/) - [https://twitter.com/azure](https://twitter.com/azure)- [https://github.com/Azure/azure-devtestlab](https://github.com/Azure/azure-devtestlab)
-- Azure DNS[https://azure.microsoft.com/en-us/services/dns/](https://azure.microsoft.com/en-us/services/dns/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure DocumentDB[https://azure.microsoft.com/en-us/services/documentdb/](https://azure.microsoft.com/en-us/services/documentdb/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Event Hubs[https://azure.microsoft.com/en-us/services/event-hubs/](https://azure.microsoft.com/en-us/services/event-hubs/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure HDInsight[https://azure.microsoft.com/en-us/services/hdinsight/](https://azure.microsoft.com/en-us/services/hdinsight/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure IoT Hub[https://azure.microsoft.com/en-us/services/iot-hub/](https://azure.microsoft.com/en-us/services/iot-hub/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Key Vault[https://azure.microsoft.com/en-us/services/key-vault/](https://azure.microsoft.com/en-us/services/key-vault/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Logic Apps[https://azure.microsoft.com/en-us/services/logic-apps/](https://azure.microsoft.com/en-us/services/logic-apps/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Machine Learning[https://azure.microsoft.com/en-us/services/machine-learning/](https://azure.microsoft.com/en-us/services/machine-learning/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Media Services[https://azure.microsoft.com/en-us/services/media-services/](https://azure.microsoft.com/en-us/services/media-services/) - [https://twitter.com/azure](https://twitter.com/azure)- [https://github.com/Azure/Azure-Media-Services-Explorer](https://github.com/Azure/Azure-Media-Services-Explorer)
-- Azure Monitor[http://docs.microsoft.com](http://docs.microsoft.com) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Notification Hubs[https://docs.microsoft.com/en-us/azure/notification-hubs/](https://docs.microsoft.com/en-us/azure/notification-hubs/) - [https://github.com/Azure/azure-notificationhubs-dotnet](https://github.com/Azure/azure-notificationhubs-dotnet)
-- Azure Recovery Services[https://azure.microsoft.com/en-us/services/site-recovery/](https://azure.microsoft.com/en-us/services/site-recovery/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Redis Cache[https://azure.microsoft.com/en-us/services/cache/](https://azure.microsoft.com/en-us/services/cache/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Resource Health[https://docs.microsoft.com/en-us/azure/resource-health/](https://docs.microsoft.com/en-us/azure/resource-health/)
-- Azure Resource Manager[https://docs.microsoft.com/en-us/rest/api/resources/](https://docs.microsoft.com/en-us/rest/api/resources/)
-- Azure Scheduler[https://azure.microsoft.com/en-us/services/scheduler/](https://azure.microsoft.com/en-us/services/scheduler/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Search[https://azure.microsoft.com/en-us/services/search/](https://azure.microsoft.com/en-us/services/search/) - [https://twitter.com/azure](https://twitter.com/azure)- [https://github.com/search?q=%22Azure+Search%22](https://github.com/search?q=%22Azure+Search%22)
-- Azure Service Bus[https://azure.microsoft.com/en-us/services/service-bus/](https://azure.microsoft.com/en-us/services/service-bus/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Service Fabric[https://azure.microsoft.com/en-us/services/service-fabric/](https://azure.microsoft.com/en-us/services/service-fabric/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure SQL Database[https://azure.microsoft.com/en-us/services/sql-database/](https://azure.microsoft.com/en-us/services/sql-database/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Storage[https://azure.microsoft.com/en-us/services/storage/](https://azure.microsoft.com/en-us/services/storage/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Traffic Manager[https://azure.microsoft.com/en-us/services/traffic-manager/](https://azure.microsoft.com/en-us/services/traffic-manager/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Azure Virtual Network[https://azure.microsoft.com/en-us/services/virtual-network/](https://azure.microsoft.com/en-us/services/virtual-network/) - [https://twitter.com/azure](https://twitter.com/azure)
-- Backendless.com[http://www.backendless.com](http://www.backendless.com) - [https://twitter.com/backendless](https://twitter.com/backendless)- [https://github.com/Backendless](https://github.com/Backendless)
-- BAD TESTING[http://www.BadTesting.com](http://www.BadTesting.com) - [https://twitter.com/BadTesting](https://twitter.com/BadTesting)
-- BBVA Compass[https://www.bbvaapimarket.com](https://www.bbvaapimarket.com) - [https://www.twitter.com/bbva_usa](https://www.twitter.com/bbva_usa)- [https://github.com/BBVA](https://github.com/BBVA)
-- Bearer[https://www.bearer.sh](https://www.bearer.sh) - [https://twitter.com/@bearersh](https://twitter.com/@bearersh)- [https://github.com/Bearer](https://github.com/Bearer)
-- BigML[http://bigml.com](http://bigml.com) - [http://twitter.com/bigmlcom](http://twitter.com/bigmlcom)- [https://github.com/bigml](https://github.com/bigml)
-- bintray[https://bintray.com](https://bintray.com) - [https://twitter.com/bintray](https://twitter.com/bintray)- [https://github.com/bintray](https://github.com/bintray)
-- BlackStratus[https://www.blackstratus.com](https://www.blackstratus.com) - [https://twitter.com/blackstratusinc](https://twitter.com/blackstratusinc)
-- BlazeMeter[https://blazemeter.com](https://blazemeter.com) - [https://twitter.com/BlazeMeter](https://twitter.com/BlazeMeter)- [https://github.com/Blazemeter](https://github.com/Blazemeter)
-- Blockspring[https://www.blockspring.com](https://www.blockspring.com) - [https://twitter.com/blockspring](https://twitter.com/blockspring)- [https://github.com/blockspring](https://github.com/blockspring)
-- Blogger[http://buzz.blogger.com/](http://buzz.blogger.com/) - [https://twitter.com/Blogger](https://twitter.com/Blogger)
-- blogs.informatica.com[http://blogs.informatica.com](http://blogs.informatica.com)
-- BMC Software[https://www.bmc.com](https://www.bmc.com) - [https://twitter.com/bmc_developer](https://twitter.com/bmc_developer)- [https://github.com/bmcsoftware](https://github.com/bmcsoftware)
-- Botify[https://www.botify.com/](https://www.botify.com/) - [https://twitter.com/botify](https://twitter.com/botify)- [https://github.com/botify-labs](https://github.com/botify-labs)
-- Bridge Software Systems[https://www.bridgesoftware.com](https://www.bridgesoftware.com)
-- Buddy Platform[http://www.buddy.com](http://www.buddy.com) - [https://twitter.com/buddyplatform](https://twitter.com/buddyplatform)- [https://github.com/buddy](https://github.com/buddy)
-- Buffer[http://buffer.com](http://buffer.com) - [https://twitter.com/buffer](https://twitter.com/buffer)- [https://github.com/joelg](https://github.com/joelg)
-- Built.io[http://www.built.io](http://www.built.io) - [https://twitter.com/builtio](https://twitter.com/builtio)- [https://github.com/raweng](https://github.com/raweng)
-- Cacoo[http://cacoo.com](http://cacoo.com) - [https://twitter.com/@cacoocom](https://twitter.com/@cacoocom)- [https://github.com/cacoo](https://github.com/cacoo)
-- Catch Software[http://www.catchsoftware.com](http://www.catchsoftware.com) - [https://twitter.com/catchsoftware](https://twitter.com/catchsoftware)- [https://github.com/catch-software](https://github.com/catch-software)
-- Catchpoint[http://www.catchpoint.com](http://www.catchpoint.com) - [https://twitter.com/catchpoint](https://twitter.com/catchpoint)- [https://github.com/catchpoint](https://github.com/catchpoint)
-- Centrify[http://www.centrify.com](http://www.centrify.com) - [https://twitter.com/Centrify](https://twitter.com/Centrify)
-- Certificate Transparency[http://www.certificate-transparency.org/](http://www.certificate-transparency.org/) - [https://github.com/google/certificate-transparency](https://github.com/google/certificate-transparency)
-- Chakram[http://dareid.github.io/chakram/](http://dareid.github.io/chakram/)
-- Charles Proxy[http://www.charlesproxy.com](http://www.charlesproxy.com) - [http://twitter.com/charlesproxy](http://twitter.com/charlesproxy)
-- Chef[http://www.chef.io](http://www.chef.io) - [https://twitter.com/chef](https://twitter.com/chef)- [https://github.com/clintoncwolfe](https://github.com/clintoncwolfe)
-- ChoiceTrade[http://www.choicetrade.com](http://www.choicetrade.com) - [https://twitter.com/Choicetrade/](https://twitter.com/Choicetrade/)
-- CircleCI[https://circleci.com](https://circleci.com) - [https://twitter.com/circleci](https://twitter.com/circleci)- [https://github.com/circleci](https://github.com/circleci)
-- Cisco Continuum[http://continuum.cisco.com/](http://continuum.cisco.com/) - [https://twitter.com/Cisco](https://twitter.com/Cisco)
-- Cisco Meraki[http://meraki.cisco.com](http://meraki.cisco.com) - [https://twitter.com/meraki](https://twitter.com/meraki)- [https://github.com/meraki](https://github.com/meraki)
-- Civo.com[https://www.civo.com/](https://www.civo.com/) - [https://twitter.com/civocloud](https://twitter.com/civocloud)- [https://github.com/civo](https://github.com/civo)
-- CKAN[http://ckan.org](http://ckan.org) - [https://twitter.com/ckanproject](https://twitter.com/ckanproject)- [https://github.com/ckan](https://github.com/ckan)
-- Cloud Elements[http://www.cloud-elements.com](http://www.cloud-elements.com) - [https://twitter.com/cloudelements](https://twitter.com/cloudelements)- [https://github.com/cloud-elements](https://github.com/cloud-elements)
-- CloudBoost.io[https://www.cloudboost.io/](https://www.cloudboost.io/) - [https://twitter.com/cloudboostlove](https://twitter.com/cloudboostlove)- [https://github.com/CloudBoost/instagram](https://github.com/CloudBoost/instagram)
-- CloudEvents[http://cloudevents.io](http://cloudevents.io) - [https://github.com/cloudevents/](https://github.com/cloudevents/)
-- CloudFlare[http://cloudflare.com](http://cloudflare.com) - [https://twitter.com/CloudFlare](https://twitter.com/CloudFlare)- [https://github.com/cloudflare/worker-examples/](https://github.com/cloudflare/worker-examples/)
-- Cloudify[https://getcloudify.org](https://getcloudify.org) - [https://twitter.com/CloudifySource](https://twitter.com/CloudifySource)- [https://github.com/CloudifySource](https://github.com/CloudifySource)
-- CloudLock[http://www.cloudlock.com](http://www.cloudlock.com) - [https://twitter.com/cloudlock](https://twitter.com/cloudlock)
-- CloudMine[http://cloudmineinc.com](http://cloudmineinc.com) - [https://twitter.com/cloudmine](https://twitter.com/cloudmine)- [https://github.com/cloudmine](https://github.com/cloudmine)
-- CloudPassage[https://www.cloudpassage.com](https://www.cloudpassage.com) - [http://www.twitter.com/cloudpassage](http://www.twitter.com/cloudpassage)- [http://cloudpassage.github.io/halo-toolbox/](http://cloudpassage.github.io/halo-toolbox/)
-- CloudRail[https://cloudrail.com](https://cloudrail.com) - [https://twitter.com/CloudRail](https://twitter.com/CloudRail)
-- CloudWork[https://www.getapp.com/](https://www.getapp.com/) - [https://twitter.com/getapp](https://twitter.com/getapp)- [https://github.com/cloudwork](https://github.com/cloudwork)
-- CloverDX[https://www.cloverdx.com](https://www.cloverdx.com) - [https://twitter.com/CloverDX/](https://twitter.com/CloverDX/)
-- Code.gov[https://code.gov/](https://code.gov/) - [https://twitter.com/codedotgov](https://twitter.com/codedotgov)
-- CodeSandbox[https://codesandbox.io](https://codesandbox.io) - [https://twitter.com/codesandboxapp](https://twitter.com/codesandboxapp)
-- Codeship[https://codeship.com/](https://codeship.com/) - [https://twitter.com/cloudbees](https://twitter.com/cloudbees)- [https://github.com/codeship](https://github.com/codeship)
-- Codius[http://codius.org/](http://codius.org/) - [https://github.com/codius/](https://github.com/codius/)
-- Coffee Bean Tech[http://www.coffeebeantech.com/](http://www.coffeebeantech.com/) - [https://twitter.com/coffeebeantech](https://twitter.com/coffeebeantech)- [https://github.com/coffeebeantech](https://github.com/coffeebeantech)
-- CommonCrawl[http://commoncrawl.org/](http://commoncrawl.org/) - [https://twitter.com/commoncrawl/](https://twitter.com/commoncrawl/)- [https://github.com/commoncrawl](https://github.com/commoncrawl)
-- Confluent[https://www.confluent.io](https://www.confluent.io) - [https://twitter.com/confluentinc](https://twitter.com/confluentinc)- [https://github.com/confluentinc](https://github.com/confluentinc)
-- Containous[http://containo.us](http://containo.us) - [https://twitter.com/containous](https://twitter.com/containous)- [https://github.com/containous/traefik/](https://github.com/containous/traefik/)
-- CoreOS[http://coreos.com](http://coreos.com) - [https://twitter.com/coreos/](https://twitter.com/coreos/)- [https://www.github.com/coreos](https://www.github.com/coreos)
-- Cosmic[http://www.cosmic-api.com](http://www.cosmic-api.com) - [https://twitter.com/cosmic_api](https://twitter.com/cosmic_api)- [https://github.com/cosmic-api/cosmic.py](https://github.com/cosmic-api/cosmic.py)
-- Crate.io[https://crate.io](https://crate.io) - [https://twitter.com/CrateIO](https://twitter.com/CrateIO)- [https://github.com/crate/crate](https://github.com/crate/crate)
-- CrossBrowserTesting[http://crossbrowsertesting.com](http://crossbrowsertesting.com) - [https://twitter.com/xbrowsertesting](https://twitter.com/xbrowsertesting)- [https://github.com/crossbrowsertesting](https://github.com/crossbrowsertesting)
-- Crosscheck Networks[http://www.crosschecknet.com/](http://www.crosschecknet.com/) - [http://twitter.com/crosscheck](http://twitter.com/crosscheck)
-- Crowdstrike[http://www.crowdstrike.com](http://www.crowdstrike.com) - [https://twitter.com/CrowdStrike](https://twitter.com/CrowdStrike)- [https://github.com/CrowdStrike](https://github.com/CrowdStrike)
-- Cucumber[https://cucumber.io/](https://cucumber.io/) - [https://twitter.com/smartbear](https://twitter.com/smartbear)- [https://github.com/cucumber](https://github.com/cucumber)
-- Curity Developer Portal[http://curity.io](http://curity.io) - [https://mobile.twitter.com/curityio](https://mobile.twitter.com/curityio)
-- CurlHub.io[http://curlhub.io](http://curlhub.io)
-- curlx[http://curlx.dev](http://curlx.dev)
-- Cycle[http://cycle.io](http://cycle.io) - [https://github.com/cycleplatform/api-client-nodejs/](https://github.com/cycleplatform/api-client-nodejs/)
-- Cypress.io[https://www.cypress.io](https://www.cypress.io) - [https://twitter.com/marcoemrich?ref_src=twsrc%5Etfw](https://twitter.com/marcoemrich?ref_src=twsrc%5Etfw)
-- DapperDox[http://dapperdox.io](http://dapperdox.io) - [https://twitter.com/DapperDox](https://twitter.com/DapperDox)- [https://github.com/DapperDox/dapperdox](https://github.com/DapperDox/dapperdox)
-- Dapr - portable, event-driven, serverless runtime.[https://dapr.io](https://dapr.io) - [https://twitter.com/DaprDev](https://twitter.com/DaprDev)- [https://github.com/dapr](https://github.com/dapr)
-- Dat [https://dat.foundation](https://dat.foundation) - [https://twitter.com/dat_project](https://twitter.com/dat_project)- [https://github.com/datproject](https://github.com/datproject)
-- Data-Smart Cities[http://datasmart.ash.harvard.edu](http://datasmart.ash.harvard.edu) - [http://twitter.com/goldsmithongov](http://twitter.com/goldsmithongov)
-- DataAtWork[http://dataatwork.org](http://dataatwork.org) - [https://twitter.com/data_at_work](https://twitter.com/data_at_work)
-- Datadog[https://www.datadoghq.com](https://www.datadoghq.com) - [https://twitter.com/datadoghq](https://twitter.com/datadoghq)- [https://github.com/datadog](https://github.com/datadog)
-- DataFire[https://datafire.io/](https://datafire.io/) - [https://twitter.com/lucybot_api](https://twitter.com/lucybot_api)- [https://github.com/DataFire](https://github.com/DataFire)
-- DataHero[http://www.datahero.com](http://www.datahero.com) - [http://twitter.com/datahero](http://twitter.com/datahero)- [https://github.com/Datahero](https://github.com/Datahero)
-- Dataiku[https://www.dataiku.com](https://www.dataiku.com) - [https://twitter.com/dataiku/](https://twitter.com/dataiku/)
-- Datawire[http://datawire.io](http://datawire.io) - [https://twitter.com/datawireio](https://twitter.com/datawireio)- [https://github.com/datawire](https://github.com/datawire)
-- Datical[http://www.datical.com](http://www.datical.com) - [https://twitter.com/Datical](https://twitter.com/Datical)
-- datproject.org[]()
-- Datumbox[http://datumbox.com](http://datumbox.com) - [https://twitter.com/datumbox/](https://twitter.com/datumbox/)- [https://github.com/datumbox/datumbox-framework/](https://github.com/datumbox/datumbox-framework/)
-- Davra[http://www.davranetworks.com/](http://www.davranetworks.com/) - [https://twitter.com/i/web/status/1215712911634640897](https://twitter.com/i/web/status/1215712911634640897)
-- DBmaestro[http://www.dbmaestro.com](http://www.dbmaestro.com) - [https://twitter.com/DBmaestro](https://twitter.com/DBmaestro)- [https://github.com/DBMaestroDev](https://github.com/DBMaestroDev)
-- Dell Boomi[http://www.boomi.com](http://www.boomi.com) - [https://twitter.com/boomi](https://twitter.com/boomi)
-- Dell Technologies[]()
-- Deltacloud[http://twitter.com](http://twitter.com) - [https://twitter.com/TheASF](https://twitter.com/TheASF)- [https://github.com/deltacloud](https://github.com/deltacloud)
-- deployd[http://www.deployd.com](http://www.deployd.com) - [https://twitter.com/share](https://twitter.com/share)- [http://github.com/deployd/deployd](http://github.com/deployd/deployd)
-- Developer Media[http://developermedia.com](http://developermedia.com) - [https://twitter.com/Developer_Media](https://twitter.com/Developer_Media)
-- Deveo[https://deveo.com](https://deveo.com) - [https://twitter.com/perforce](https://twitter.com/perforce)
-- Dexy[http://dexy.it](http://dexy.it) - [https://twitter.com/dexyit](https://twitter.com/dexyit)- [http://github.com/dexy/dexy](http://github.com/dexy/dexy)
-- Diffbot[https://www.diffbot.com/?utm_source=twitter](https://www.diffbot.com/?utm_source=twitter) - [https://twitter.com/diffbot](https://twitter.com/diffbot)- [http://github.com/diffbot](http://github.com/diffbot)
-- DigiCert[https://www.digicert.com](https://www.digicert.com) - [https://twitter.com/digicert](https://twitter.com/digicert)
-- Digital River[http://digitalriver.com](http://digitalriver.com) - [https://twitter.com/DigitalRiverInc](https://twitter.com/DigitalRiverInc)
-- DigitalOcean[http://do.co/welcome](http://do.co/welcome) - [https://twitter.com/digitalocean](https://twitter.com/digitalocean)- [https://github.com/digitalocean](https://github.com/digitalocean)
-- Django REST[http://www.tomchristie.com/](http://www.tomchristie.com/) - [https://twitter.com/_tomchristie](https://twitter.com/_tomchristie)- [https://github.com/django-guardian/django-guardian](https://github.com/django-guardian/django-guardian)
-- DNS Check[https://www.dnscheck.co](https://www.dnscheck.co) - [http://twitter.com/share?url=https://www.dnscheck.co/](http://twitter.com/share?url=https://www.dnscheck.co/)
-- DNS Made Easy[http://dnsmadeeasy.com](http://dnsmadeeasy.com) - [http://www.twitter.com/dnsmadeeasy](http://www.twitter.com/dnsmadeeasy)
-- DNSQueries[https://www.dnsqueries.com](https://www.dnsqueries.com)
-- Docker[http://Docker.com](http://Docker.com) - [http://twitter.com/docker](http://twitter.com/docker)- [https://github.com/docker](https://github.com/docker)
-- DocumentUp[https://documentup.com](https://documentup.com)
-- Docusaurus[https://docusaurus.io](https://docusaurus.io)
-- Domainbox[http://www.domainbox.com](http://www.domainbox.com) - [http://twitter.com/domainbox/](http://twitter.com/domainbox/)
-- DomainTools[https://www.domaintools.com](https://www.domaintools.com) - [https://twitter.com/DomainTools](https://twitter.com/DomainTools)- [https://github.com/DomainTools](https://github.com/DomainTools)
-- Dome9 Security[http://dome9.com](http://dome9.com) - [https://twitter.com/dome9/](https://twitter.com/dome9/)
-- Domo[http://www.domo.com](http://www.domo.com)
-- Drone Systems[http://www.dronesystems.us](http://www.dronesystems.us) - [https://twitter.com/DroneSystems](https://twitter.com/DroneSystems)
-- Dropbox[https://www.dropbox.com/smart-workspace](https://www.dropbox.com/smart-workspace) - [https://twitter.com/dropbox](https://twitter.com/dropbox)- [https://github.com/dropbox](https://github.com/dropbox)
-- Droplit.io[http://www.droplit.io](http://www.droplit.io) - [http://www.twitter.com/droplitio](http://www.twitter.com/droplitio)
-- Drupal[https://api.drupal.org](https://api.drupal.org) - [https://twitter.com/drupal](https://twitter.com/drupal)- [https://github.com/drupal](https://github.com/drupal)
-- Duo Security[http://www.duosecurity.com](http://www.duosecurity.com) - [https://twitter.com/duosec](https://twitter.com/duosec)
-- Dyn[http://dyn.com](http://dyn.com) - [https://twitter.com/Dyn](https://twitter.com/Dyn)- [https://github.com/dyninc](https://github.com/dyninc)
-- EasyCron[http://easycron.com](http://easycron.com) - [https://twitter.com/easycron](https://twitter.com/easycron)
-- Eclipse[http://eclipse.org/](http://eclipse.org/) - [https://twitter.com/EclipseFdn](https://twitter.com/EclipseFdn)
-- ecobee[http://ecobee.com](http://ecobee.com) - [https://twitter.com/ecobee](https://twitter.com/ecobee)
-- Egnyte[http://www.egnyte.com](http://www.egnyte.com) - [https://twitter.com/Egnyte](https://twitter.com/Egnyte)
-- Elastic Path[https://path.com](https://path.com) - [https://twitter.com/elasticpath/](https://twitter.com/elasticpath/)- [https://github.com/elasticpath](https://github.com/elasticpath)
-- Elastic.io[https://www.elastic.io](https://www.elastic.io) - [https://twitter.com/elasticio](https://twitter.com/elasticio)- [https://github.com/elasticio](https://github.com/elasticio)
-- Elastichosts[https://www.elastichosts.com/](https://www.elastichosts.com/) - [https://twitter.com/ElasticHosts](https://twitter.com/ElasticHosts)- [https://github.com/elastichosts](https://github.com/elastichosts)
-- Elasticsearch[https://www.elastic.co](https://www.elastic.co) - [https://www.twitter.com/elastic](https://www.twitter.com/elastic)- [https://github.com/elasticsearch](https://github.com/elasticsearch)
-- Embedly[http://embed.ly](http://embed.ly) - [http://twitter.com/embedly](http://twitter.com/embedly)- [http://www.github.com/embedly](http://www.github.com/embedly)
-- EMC[https://www.emc.com](https://www.emc.com) - [https://twitter.com/EMCcorp](https://twitter.com/EMCcorp)- [https://github.com/emccode](https://github.com/emccode)
-- EnvKey[https://www.envkey.com](https://www.envkey.com) - [https://twitter.com/EnvkeyConfig](https://twitter.com/EnvkeyConfig)- [https://github.com/envkey/envkey-app/issues](https://github.com/envkey/envkey-app/issues)
-- Envoy Proxy - Home[http://www.envoyproxy.io](http://www.envoyproxy.io) - [https://twitter.com/envoyproxy](https://twitter.com/envoyproxy)- [https://envoyproxy.github.io/envoy/](https://envoyproxy.github.io/envoy/)
-- EveryDeveloper[http://everydeveloper.com/](http://everydeveloper.com/)
-- Exicon[http://blog.exiconglobal.com](http://blog.exiconglobal.com) - [https://twitter.com/exicon](https://twitter.com/exicon)
-- Exosite[http://www.exosite.com](http://www.exosite.com) - [https://twitter.com/exosite](https://twitter.com/exosite)- [https://github.com/exosite](https://github.com/exosite)
-- Expressjs[http://expressjs.com/](http://expressjs.com/) - [https://twitter.com/expressjs](https://twitter.com/expressjs)- [https://github.com/visionmedia](https://github.com/visionmedia)
-- Fairwaves[https://fairwaves.co/](https://fairwaves.co/) - [http://twitter.com/fairwaves/status/758431184137453568](http://twitter.com/fairwaves/status/758431184137453568)- [https://github.com/fairwaves](https://github.com/fairwaves)
-- fancyapps[http://fancyapps.com](http://fancyapps.com) - [http://twitter.com/thefancyapps](http://twitter.com/thefancyapps)- [https://github.com/fancyapps/fancyBox/issues](https://github.com/fancyapps/fancyBox/issues)
-- Fanout[https://fanout.io](https://fanout.io) - [https://twitter.com/fanout](https://twitter.com/fanout)- [https://github.com/fanout](https://github.com/fanout)
-- Farsight Security[https://www.farsightsecurity.com/](https://www.farsightsecurity.com/) - [https://twitter.com/FarsightSecInc](https://twitter.com/FarsightSecInc)- [https://github.com/farsightsec](https://github.com/farsightsec)
-- FatFractal[http://www.FatFractal.com](http://www.FatFractal.com) - [http://www.twitter.com/fatfractal](http://www.twitter.com/fatfractal)- [https://github.com/FatFractal](https://github.com/FatFractal)
-- Fauna[http://fauna.com](http://fauna.com) - [https://twitter.com/fauna](https://twitter.com/fauna)
-- Fiddler[https://www.telerik.com](https://www.telerik.com) - [https://twitter.com/Telerik](https://twitter.com/Telerik)- [https://github.com/telerik](https://github.com/telerik)
-- Figure Eight[https://www.figure-eight.com](https://www.figure-eight.com) - [https://twitter.com/FigureEightInc](https://twitter.com/FigureEightInc)
-- Fiorano Software[http://www.fiorano.com](http://www.fiorano.com) - [https://twitter.com/FioranoGlobal](https://twitter.com/FioranoGlobal)- [https://github.com/FioranoSoftware](https://github.com/FioranoSoftware)
-- Flood IO[https://flood.io](https://flood.io) - [https://twitter.com/flood_io](https://twitter.com/flood_io)- [https://github.com/flood-io](https://github.com/flood-io)
-- Flynn[https://flynn.io](https://flynn.io) - [https://twitter.com/flynnscale](https://twitter.com/flynnscale)- [https://github.com/flynn/flynn](https://github.com/flynn/flynn)
-- Forum Systems[http://www.forumsys.com](http://www.forumsys.com) - [https://twitter.com/ForumSystems](https://twitter.com/ForumSystems)
-- Frisby.js[http://frisbyjs.com/](http://frisbyjs.com/)
-- FullContact[https://www.fullcontact.com/developer](https://www.fullcontact.com/developer) - [https://twitter.com/FullContact](https://twitter.com/FullContact)- [https://github.com/fullcontact](https://github.com/fullcontact)
-- Fusio[https://www.fusio-project.org/](https://www.fusio-project.org/) - [https://twitter.com/FusioAPI](https://twitter.com/FusioAPI)- [https://github.com/apioo](https://github.com/apioo)
-- Ghost Inspector[https://ghostinspector.com](https://ghostinspector.com) - [https://twitter.com/GhostInspector](https://twitter.com/GhostInspector)
-- Giant Swarm[http://giantswarm.io](http://giantswarm.io) - [https://twitter.com/giantswarm](https://twitter.com/giantswarm)- [https://github.com/giantswarm](https://github.com/giantswarm)
-- Gigya[http://gigya.com/](http://gigya.com/) - [https://twitter.com/Gigya](https://twitter.com/Gigya)- [https://github.com/gigya](https://github.com/gigya)
-- GitHub[https://github.com](https://github.com) - [https://twitter.com/github](https://twitter.com/github)- [https://github.com/github](https://github.com/github)
-- Github Gists[https://gist.github.com/](https://gist.github.com/) - [https://twitter.com/github](https://twitter.com/github)- [https://training.github.com](https://training.github.com)
-- Github Pages[https://pages.github.com/](https://pages.github.com/) - [https://twitter.com/github](https://twitter.com/github)- [https://shop.github.com](https://shop.github.com)
-- Gitter[https://gitter.im](https://gitter.im) - [https://twitter.com/gitchat](https://twitter.com/gitchat)- [https://github.com/gitterHQ](https://github.com/gitterHQ)
-- glot.io[https://glot.io](https://glot.io) - [https://twitter.com/glotcode](https://twitter.com/glotcode)- [https://github.com/prasmussen/glot](https://github.com/prasmussen/glot)
-- Gluu[http://gluu.org](http://gluu.org) - [https://twitter.com/GluuFederation](https://twitter.com/GluuFederation)- [https://github.com/GluuFederation](https://github.com/GluuFederation)
-- Goa[https://goa.design/](https://goa.design/) - [https://twitter.com/goadesign](https://twitter.com/goadesign)- [https://github.com/goadesign/examples](https://github.com/goadesign/examples)
-- Google[http://sites.google.com](http://sites.google.com) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)- [https://github.com/firebase](https://github.com/firebase)
-- Google Adsense[http://goo.gl/AwGawQ](http://goo.gl/AwGawQ) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google AdWords[https://adwords.google.com/home/](https://adwords.google.com/home/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Analytics[http://g.co/marketingplatform](http://g.co/marketingplatform) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)- [https://github.com/googleanalytics/](https://github.com/googleanalytics/)
-- Google API Discovery Service[https://developers.google.com/discovery/](https://developers.google.com/discovery/)
-- Google App Engine[https://cloud.google.com/appengine/](https://cloud.google.com/appengine/)
-- Google App Engine Blog[]()
-- Google Apps Admin SDK[https://developers.google.com/admin-sdk/](https://developers.google.com/admin-sdk/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Apps Script Execution[http://developers.google.com/gsuite](http://developers.google.com/gsuite) - [https://twitter.com/gsuitedevs](https://twitter.com/gsuitedevs)- [https://github.com/golang/gddo/issues](https://github.com/golang/gddo/issues)
-- Google Beacons[https://developers.google.com/beacons/](https://developers.google.com/beacons/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)- [http://google.github.io/physical-web/](http://google.github.io/physical-web/)
-- Google Biquery[https://cloud.google.com/bigquery/](https://cloud.google.com/bigquery/)
-- Google Books[https://developers.google.com/books/](https://developers.google.com/books/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Calendar[https://developers.google.com/google-apps/calendar/](https://developers.google.com/google-apps/calendar/)
-- Google Civic Information[https://developers.google.com/civic-information/](https://developers.google.com/civic-information/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Classroom[https://classroom.google.com/](https://classroom.google.com/)
-- Google Cloud Billing[https://cloud.google.com/billing/docs/](https://cloud.google.com/billing/docs/)
-- Google Cloud Container Builder[https://cloud.google.com/container-builder/](https://cloud.google.com/container-builder/)
-- Google Cloud Dataproc[https://cloud.google.com/dataproc/](https://cloud.google.com/dataproc/) - [https://github.com/GoogleCloudPlatform/bigdata-interop](https://github.com/GoogleCloudPlatform/bigdata-interop)
-- Google Cloud Datastore[https://cloud.google.com/datastore/](https://cloud.google.com/datastore/) - [https://github.com/objectify/objectify](https://github.com/objectify/objectify)
-- Google Cloud Deployment Manager[https://cloud.google.com/deployment-manager/](https://cloud.google.com/deployment-manager/)
-- Google Cloud DNS[https://cloud.google.com/dns/](https://cloud.google.com/dns/)
-- Google Cloud Functions[https://cloud.google.com/functions/](https://cloud.google.com/functions/) - [https://github.com/bretmcg/keanubot](https://github.com/bretmcg/keanubot)
-- Google Cloud Identity Access Management[https://cloud.google.com/iam/](https://cloud.google.com/iam/)
-- Google Cloud Key Management Service[https://cloud.google.com/kms/](https://cloud.google.com/kms/)
-- Google Cloud Machine Learning Engine[https://cloud.google.com/ml-engine/](https://cloud.google.com/ml-engine/)
-- Google Cloud Natural Language[https://cloud.google.com/natural-language/](https://cloud.google.com/natural-language/)
-- Google Cloud Prediction[https://cloud.google.com/prediction/docs/developer-guide](https://cloud.google.com/prediction/docs/developer-guide)
-- Google Cloud Pub Sub[https://cloud.google.com/pubsub/docs/](https://cloud.google.com/pubsub/docs/)
-- Google Cloud Resource Manager[https://cloud.google.com/resource-manager/](https://cloud.google.com/resource-manager/)
-- Google Cloud Source Repositories[https://cloud.google.com/source-repositories/](https://cloud.google.com/source-repositories/)
-- Google Cloud Spanner[https://cloud.google.com/spanner/](https://cloud.google.com/spanner/)
-- Google Cloud SQL[https://cloud.google.com/sql/](https://cloud.google.com/sql/)
-- Google Cloud Storage[https://cloud.google.com/storage/](https://cloud.google.com/storage/)
-- Google Cloud User Accounts[https://cloud.google.com/compute/docs/access/user-accounts/api/latest/](https://cloud.google.com/compute/docs/access/user-accounts/api/latest/)
-- Google Cloud Vision[https://cloud.google.com/vision/](https://cloud.google.com/vision/)
-- Google Compute Engine[https://cloud.google.com/compute/](https://cloud.google.com/compute/)
-- Google Consumer Surveys[https://surveys.withgoogle.com/](https://surveys.withgoogle.com/)
-- Google Container Engine[https://cloud.google.com/container-engine/](https://cloud.google.com/container-engine/)
-- Google Content API for Shopping[https://developers.google.com/shopping-content/v2/quickstart](https://developers.google.com/shopping-content/v2/quickstart)
-- Google Data Studio[https://www.google.com/analytics/data-studio/](https://www.google.com/analytics/data-studio/)
-- Google Dataflow[https://cloud.google.com/dataflow/](https://cloud.google.com/dataflow/)
-- Google Doubleclick[https://www.doubleclickbygoogle.com/](https://www.doubleclickbygoogle.com/)
-- Google Drive[https://developers.google.com/drive/](https://developers.google.com/drive/) - [https://github.com/gsuitedevs](https://github.com/gsuitedevs)
-- Google Fit[https://developers.google.com/fit/overview](https://developers.google.com/fit/overview)
-- Google Fonts[http://fonts.google.com](http://fonts.google.com) - [https://twitter.com/googlefonts](https://twitter.com/googlefonts)
-- Google Fusion Tables[https://developers.google.com/fusiontables/](https://developers.google.com/fusiontables/)
-- Google Genomics[https://cloud.google.com/genomics/](https://cloud.google.com/genomics/) - [https://github.com/google/deepvariant](https://github.com/google/deepvariant)
-- Google Glass[https://developers.google.com/glass/](https://developers.google.com/glass/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Knowledge Graph Search[https://developers.google.com/knowledge-graph/](https://developers.google.com/knowledge-graph/)
-- Google Manufacturer Center[https://www.google.com/retail/manufacturer-center/](https://www.google.com/retail/manufacturer-center/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google News Search - APIs[https://www.google.com](https://www.google.com)
-- Google OAuth2[https://developers.google.com/identity/protocols/OAuth2](https://developers.google.com/identity/protocols/OAuth2) - [https://github.com/google/GTMAppAuth](https://github.com/google/GTMAppAuth)
-- Google PageSpeed Insights[https://developers.google.com/speed/docs/insights/about](https://developers.google.com/speed/docs/insights/about) - [https://github.com/GoogleChrome/Lighthouse/issues](https://github.com/GoogleChrome/Lighthouse/issues)
-- Google Partners[https://developers.google.com/partners/](https://developers.google.com/partners/)
-- Google People[https://developers.google.com/people/](https://developers.google.com/people/)
-- Google Play[http://play.google.com](http://play.google.com) - [https://twitter.com/GooglePlay](https://twitter.com/GooglePlay)
-- Google Plus[https://plus.google.com/](https://plus.google.com/)
-- Google Product Ideas[]()
-- Google QPX Express[https://developers.google.com/qpx-express/](https://developers.google.com/qpx-express/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Research[https://googleresearch.blogspot.com](https://googleresearch.blogspot.com) - [https://twitter.com/googleresearch](https://twitter.com/googleresearch)
-- Google Safe Browsing[https://developers.google.com/safe-browsing/](https://developers.google.com/safe-browsing/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Search Console[https://developers.google.com/webmaster-tools/](https://developers.google.com/webmaster-tools/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Service Control[https://cloud.google.com/service-control/overview](https://cloud.google.com/service-control/overview)
-- Google Service Management[https://cloud.google.com/service-management/overview](https://cloud.google.com/service-management/overview)
-- Google Sheets[https://developers.google.com/sheets/](https://developers.google.com/sheets/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Site Verification[https://developers.google.com/site-verification/](https://developers.google.com/site-verification/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Slides[https://docs.google.com](https://docs.google.com)
-- Google Spectrum Database[https://www.google.com/get/spectrumdatabase/](https://www.google.com/get/spectrumdatabase/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Speech[https://cloud.google.com/speech/](https://cloud.google.com/speech/)
-- Google Stackdriver Monitoring[http://cloud.google.com](http://cloud.google.com)
-- Google Tag Manager[https://developers.google.com/tag-manager/](https://developers.google.com/tag-manager/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Google Task Queue[https://cloud.google.com/appengine/docs/standard/python/taskqueue/](https://cloud.google.com/appengine/docs/standard/python/taskqueue/)
-- Google Tasks[https://developers.google.com/google-apps/tasks/](https://developers.google.com/google-apps/tasks/)
-- Google Translate[https://translate.google.com/](https://translate.google.com/)
-- Google URL Shortener[https://goo.gl/](https://goo.gl/) - [https://twitter.com/search?q=%23DevFest&src=typd](https://twitter.com/search?q=%23DevFest&src=typd)
-- Graphite[http://disastermaster.wikidot.com](http://disastermaster.wikidot.com) - [https://github.com/graphite-project](https://github.com/graphite-project)
-- graphiteapp.org[]()
-- GraphQL Editor[http://graphqleditor.com](http://graphqleditor.com)
-- Gravitee IO[http://gravitee.io](http://gravitee.io) - [https://twitter.com/GraviteeIO](https://twitter.com/GraviteeIO)- [https://github.com/gravitee-io](https://github.com/gravitee-io)
-- Gremlin[http://www.gremlin.com](http://www.gremlin.com) - [https://twitter.com/GremlinInc](https://twitter.com/GremlinInc)- [https://github.com/GremlinInc](https://github.com/GremlinInc)
-- Grunt[https://gruntjs.com](https://gruntjs.com) - [https://twitter.com/gruntjs/](https://twitter.com/gruntjs/)- [https://github.com/gruntjs/grunt](https://github.com/gruntjs/grunt)
-- Hackolade[https://hackolade.com/](https://hackolade.com/) - [https://twitter.com/hackolade](https://twitter.com/hackolade)
-- hapi.js[https://hapi.dev](https://hapi.dev) - [https://twitter.com/hapijs](https://twitter.com/hapijs)- [https://github.com/hapijs/hapi](https://github.com/hapijs/hapi)
-- Hashicorp[http://hashicorp.com](http://hashicorp.com) - [https://twitter.com/hashicorp](https://twitter.com/hashicorp)- [https://github.com/hashicorp](https://github.com/hashicorp)
-- Hashicorp Consul[https://www.hashicorp.com](https://www.hashicorp.com) - [https://twitter.com/HashiCorp](https://twitter.com/HashiCorp)
-- healthy.kaiserpermanente.org[]()
-- Heartbeat[https://appbase.io](https://appbase.io) - [https://twitter.com/appbaseio](https://twitter.com/appbaseio)
-- Heroku[http://elements.heroku.com](http://elements.heroku.com) - [https://twitter.com/herokustatus](https://twitter.com/herokustatus)- [https://github.com/heroku](https://github.com/heroku)
-- hook.io[http://hook.io](http://hook.io) - [https://twitter.com/hookdotio](https://twitter.com/hookdotio)- [https://github.com/bigcompany](https://github.com/bigcompany)
-- Hootsuite[https://hootsuite.com](https://hootsuite.com) - [https://twitter.com/hootsuite](https://twitter.com/hootsuite)- [https://github.com/hootsuite](https://github.com/hootsuite)
-- Hypercat[http://www.bsigroup.com/IOT](http://www.bsigroup.com/IOT) - [https://twitter.com/bsi_iot](https://twitter.com/bsi_iot)
-- Hypothes.is[http://hypothes.is](http://hypothes.is) - [https://twitter.com/hypothes_is](https://twitter.com/hypothes_is)- [https://github.com/hypothesis](https://github.com/hypothesis)
-- iCharts[http://www.icharts.net](http://www.icharts.net) - [https://twitter.com/Plesk](https://twitter.com/Plesk)- [https://github.com/iCharts](https://github.com/iCharts)
-- Iframely[http://iframely.com](http://iframely.com) - [https://twitter.com/iframely](https://twitter.com/iframely)- [https://github.com/itteco/iframely](https://github.com/itteco/iframely)
-- Import.io[https://www.import.io](https://www.import.io) - [https://twitter.com/importio](https://twitter.com/importio)- [https://github.com/import-io](https://github.com/import-io)
-- Informatica[http://www.informatica.com](http://www.informatica.com) - [http://twitter.com/Informatica](http://twitter.com/Informatica)
-- Insomnia Rest Client[https://insomnia.rest](https://insomnia.rest) - [https://twitter.com/GetInsomnia](https://twitter.com/GetInsomnia)- [https://github.com/Kong/insomnia](https://github.com/Kong/insomnia)
-- intercept.rest[http://intercept.rest](http://intercept.rest)
-- Internap[http://www.internap.com/](http://www.internap.com/) - [https://twitter.com/internap](https://twitter.com/internap)- [https://github.com/voxel](https://github.com/voxel)
-- Intertrust Technologies[http://www.intertrust.com](http://www.intertrust.com) - [https://twitter.com/IntertrustTech](https://twitter.com/IntertrustTech)
-- Interzoid[http://www.interzoid.com](http://www.interzoid.com)
-- Iron[https://www.iron.io](https://www.iron.io) - [http://twitter.com/getiron](http://twitter.com/getiron)- [https://github.com/iron-io/dockerworker](https://github.com/iron-io/dockerworker)
-- ITDashboard.gov[https://www.itdashboard.gov](https://www.itdashboard.gov)
-- ItsAlive[http://itsalive.io/](http://itsalive.io/) - [https://twitter.com/ItsAliveApp](https://twitter.com/ItsAliveApp)
-- Janrain[http://www.akamai.com](http://www.akamai.com) - [https://twitter.com/janrain](https://twitter.com/janrain)- [https://github.com/janrain](https://github.com/janrain)
-- Jeet[http://jeet.gs/](http://jeet.gs/) - [https://github.com/mojotech/jeet](https://github.com/mojotech/jeet)
-- Jexia[https://www.jexia.com/](https://www.jexia.com/) - [https://twitter.com/jexiacom](https://twitter.com/jexiacom)- [https://github.com/jexia-inc](https://github.com/jexia-inc)
-- Joyent[http://joyent.com](http://joyent.com) - [http://twitter.com/joyent](http://twitter.com/joyent)- [http://github.com/autopilotpattern](http://github.com/autopilotpattern)
-- Junar.com[http://www.junar.com](http://www.junar.com) - [https://twitter.com/junar](https://twitter.com/junar)
-- KantanMT.com[http://www.kantanmt.com](http://www.kantanmt.com) - [https://twitter.com/KantanMT](https://twitter.com/KantanMT)
-- Kapeli[http://hexdocs.pm](http://hexdocs.pm) - [https://twitter.com/kapeli](https://twitter.com/kapeli)- [https://github.com](https://github.com)
-- Karate[https://intuit.github.io/karate/](https://intuit.github.io/karate/)
-- Kaspersky Lab[http://sky.com](http://sky.com) - [http://twitter.com/kaspersky?campaign=20000043](http://twitter.com/kaspersky?campaign=20000043)
-- Katalon | Simplify Web, API, Mobile, Desktop Automated Tests[http://www.katalon.com](http://www.katalon.com)
-- Keen[http://keen.io](http://keen.io)
-- Kentik[https://www.kentik.com/](https://www.kentik.com/) - [https://twitter.com/kentikinc](https://twitter.com/kentikinc)- [https://github.com/kentik/](https://github.com/kentik/)
-- Keplr[http://keplr.io/](http://keplr.io/)
-- Kespry[http://www.kespry.com](http://www.kespry.com) - [https://twitter.com/kespry](https://twitter.com/kespry)- [https://github.com/kespry](https://github.com/kespry)
-- Kickstarter[http://www.kickstarter.com](http://www.kickstarter.com)
-- KintoHub[https://www.kintohub.com](https://www.kintohub.com) - [https://twitter.com/Kintohub](https://twitter.com/Kintohub)- [https://github.com/kintohub](https://github.com/kintohub)
-- Kinvey[http://www.kinvey.com/](http://www.kinvey.com/) - [https://twitter.com/progresssw](https://twitter.com/progresssw)- [https://github.com/kinvey](https://github.com/kinvey)
-- Kite[http://python.org/~guido/](http://python.org/~guido/) - [https://twitter.com/gvanrossum](https://twitter.com/gvanrossum)
-- Kloudless[http://kloudless.com](http://kloudless.com) - [https://twitter.com/KloudlessAPI](https://twitter.com/KloudlessAPI)- [http://www.github.com/kloudless](http://www.github.com/kloudless)
-- Kong[https://konghq.com](https://konghq.com) - [https://twitter.com/thekonginc](https://twitter.com/thekonginc)- [https://github.com/Kong](https://github.com/Kong)
-- Kony[http://www.kony.com](http://www.kony.com) - [https://twitter.com/Kony](https://twitter.com/Kony)- [https://github.com/kony](https://github.com/kony)
-- Kubernetes[http://kubernetes.io](http://kubernetes.io) - [https://twitter.com/kubernetesio](https://twitter.com/kubernetesio)- [https://github.com/kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-- Kumulos[http://www.kumulos.com](http://www.kumulos.com) - [https://twitter.com/KumulosCloud/status/1215619781459574784](https://twitter.com/KumulosCloud/status/1215619781459574784)- [https://github.com/Kumulos/](https://github.com/Kumulos/)
-- LambdaLabs Face[https://www.lambdalabs.com](https://www.lambdalabs.com) - [https://twitter.com/LambdaAPI](https://twitter.com/LambdaAPI)- [https://github.com/lambdal/](https://github.com/lambdal/)
-- Lateral[http://lateral.io](http://lateral.io) - [https://twitter.com/lateral_kane](https://twitter.com/lateral_kane)- [https://github.com/lateral](https://github.com/lateral)
-- LaunchDarkly[http://www.launchdarkly.com](http://www.launchdarkly.com) - [http://twitter.com/launchdarkly](http://twitter.com/launchdarkly)- [https://github.com/launchdarkly](https://github.com/launchdarkly)
-- Learnifier[http://support.learnifier.com](http://support.learnifier.com) - [https://twitter.com/learnifierops](https://twitter.com/learnifierops)
-- Lelylan[http://lelylan.com](http://lelylan.com) - [https://twitter.com/lelylan](https://twitter.com/lelylan)- [https://lelylan.github.io/lab-ng/#/projects](https://lelylan.github.io/lab-ng/#/projects)
-- Lets Encrypt[https://letsencrypt.org/](https://letsencrypt.org/) - [https://twitter.com/letsencrypt](https://twitter.com/letsencrypt)- [https://github.com/](https://github.com/)
-- Lightning[http://lightning-viz.org](http://lightning-viz.org) - [https://twitter.com/lightningviz](https://twitter.com/lightningviz)- [https://github.com/lightning-viz/lightning](https://github.com/lightning-viz/lightning)
-- Lightstep[http://lightstep.com](http://lightstep.com) - [https://twitter.com/lightstephq](https://twitter.com/lightstephq)- [https://github.com/lightstep](https://github.com/lightstep)
-- LinkedIn[https://www.linkedin.com](https://www.linkedin.com) - [https://twitter.com/LinkedIn](https://twitter.com/LinkedIn)- [https://github.com/linkedin](https://github.com/linkedin)
-- Load Impact[https://k6.io](https://k6.io) - [https://twitter.com/Docker?ref_src=twsrc%5Etfw](https://twitter.com/Docker?ref_src=twsrc%5Etfw)- [https://github.com/loadimpact/](https://github.com/loadimpact/)
-- Loader.io[http://loader.io](http://loader.io) - [https://twitter.com/loaderio](https://twitter.com/loaderio)
-- LoadFocus[https://loadfocus.com](https://loadfocus.com) - [https://www.twitter.com/loadfocus](https://www.twitter.com/loadfocus)
-- Localytics[http://info.localytics.com/blog](http://info.localytics.com/blog) - [https://twitter.com/localytics](https://twitter.com/localytics)- [https://github.com/localytics](https://github.com/localytics)
-- Location Labs[http://www.locationlabs.com](http://www.locationlabs.com) - [https://twitter.com/avast_antivirus](https://twitter.com/avast_antivirus)
-- Locu[http://dev.locu.com](http://dev.locu.com) - [https://twitter.com/share](https://twitter.com/share)- [https://github.com/Locu](https://github.com/Locu)
-- Logentries[https://logentries.com/](https://logentries.com/) - [https://twitter.com/logentries](https://twitter.com/logentries)- [https://github.com/rapid7/lecli](https://github.com/rapid7/lecli)
-- Loggly[http://loggly.com](http://loggly.com) - [https://twitter.com/loggly](https://twitter.com/loggly)- [https://github.com/loggly](https://github.com/loggly)
-- loggr.net[http://loggr.net](http://loggr.net) - [http://twitter.com/loggrnet](http://twitter.com/loggrnet)- [https://github.com/loggr](https://github.com/loggr)
-- LoginRadius[http://www.loginradius.com/](http://www.loginradius.com/) - [https://twitter.com/LoginRadius](https://twitter.com/LoginRadius)- [https://github.com/LoginRadius](https://github.com/LoginRadius)
-- LoginTC[https://www.logintc.com](https://www.logintc.com) - [https://twitter.com/logintc](https://twitter.com/logintc)- [https://github.com/logintc](https://github.com/logintc)
-- Logmatic.io[https://logmatic.io](https://logmatic.io) - [https://twitter.com/datadoghq](https://twitter.com/datadoghq)- [https://github.com/logmatic](https://github.com/logmatic)
-- Logz.io[https://logz.io/](https://logz.io/) - [https://twitter.com/logzio](https://twitter.com/logzio)
-- LucyBot[https://app.datafire.io/](https://app.datafire.io/) - [https://twitter.com/LucyBot_API](https://twitter.com/LucyBot_API)- [https://github.com/DataFire/DataFire](https://github.com/DataFire/DataFire)
-- luna connect[http://www.lunaconnect.io](http://www.lunaconnect.io) - [https://twitter.com/lunaconnect](https://twitter.com/lunaconnect)
-- Mabl[http://www.mabl.com](http://www.mabl.com)
-- MachineShop[http://www.machineshop.io/](http://www.machineshop.io/) - [https://twitter.com/machineshopio](https://twitter.com/machineshopio)- [https://github.com/MachineShop-IOT](https://github.com/MachineShop-IOT)
-- MapData Services[http://www.mapdatatservices.com](http://www.mapdatatservices.com) - [https://twitter.com/mapdataservices](https://twitter.com/mapdataservices)
-- MarkLogic[http://www.marklogic.com](http://www.marklogic.com) - [https://twitter.com/marklogic](https://twitter.com/marklogic)- [https://github.com/marklogic/marklogic-data-hub](https://github.com/marklogic/marklogic-data-hub)
-- Materia[https://getmateria.com](https://getmateria.com) - [https://twitter.com/MateriaHQ](https://twitter.com/MateriaHQ)- [https://github.com/materiahq/materia-designer-public](https://github.com/materiahq/materia-designer-public)
-- Mattermost[http://forum.mattermost.org](http://forum.mattermost.org) - [https://twitter.com/mattermost](https://twitter.com/mattermost)- [https://github.com/mattermost/mattermost-server/fork](https://github.com/mattermost/mattermost-server/fork)
-- Meaning Cloud[http://www.meaningcloud.com](http://www.meaningcloud.com) - [https://twitter.com/MeaningCloud](https://twitter.com/MeaningCloud)- [https://github.com/MeaningCloud](https://github.com/MeaningCloud)
-- Media Temple[https://mediatemple.net/](https://mediatemple.net/) - [https://twitter.com/mediatemple](https://twitter.com/mediatemple)- [https://github.com/mediatemple](https://github.com/mediatemple)
-- Medium[https://medium.com/](https://medium.com/) - [https://twitter.com/Medium](https://twitter.com/Medium)- [https://github.com/Medium](https://github.com/Medium)
-- Meetin.gs[http://www.meetin.gs](http://www.meetin.gs) - [http://www.twitter.com/meetin_gs/](http://www.twitter.com/meetin_gs/)
-- Meetup[https://www.meetup.com](https://www.meetup.com) - [https://twitter.com/Meetup/](https://twitter.com/Meetup/)- [https://github.com/meetup](https://github.com/meetup)
-- Micro[https://micro.mu](https://micro.mu) - [https://twitter.com/microhq](https://twitter.com/microhq)- [https://github.com/micro/micro](https://github.com/micro/micro)
-- Microcks[https://microcks.github.io/](https://microcks.github.io/) - [https://twitter.com/microcksIO](https://twitter.com/microcksIO)- [https://github.com/microcks](https://github.com/microcks)
-- Microsoft Powershell[https://msdn.microsoft.com/en-us/powershell/mt173057.aspx](https://msdn.microsoft.com/en-us/powershell/mt173057.aspx) - [https://github.com/powershell](https://github.com/powershell)
-- Mixpanel[http://mixpanel.com](http://mixpanel.com) - [https://twitter.com/mixpanel](https://twitter.com/mixpanel)- [https://github.com/mixpanel](https://github.com/mixpanel)
-- MoBagel[http://www.mobagel.com](http://www.mobagel.com) - [https://twitter.com/mobagel](https://twitter.com/mobagel)- [https://github.com/MOBAGEL](https://github.com/MOBAGEL)
-- Mockable.io[http://www.mockable.io](http://www.mockable.io) - [https://twitter.com/mockableio](https://twitter.com/mockableio)
-- Mockaroo[http://mockaroo.com](http://mockaroo.com) - [https://twitter.com/mockaroodev](https://twitter.com/mockaroodev)- [https://github.com/mockaroo/mockaroo-enterprise](https://github.com/mockaroo/mockaroo-enterprise)
-- MockServer[http://www.mock-server.com/](http://www.mock-server.com/) - [https://github.com/mock-server/mockserver](https://github.com/mock-server/mockserver)
-- Mocky[http://www.mocky.io/](http://www.mocky.io/)
-- Moesif[http://www.moesif.com](http://www.moesif.com)
-- Monarch API Manager[http://www.captechconsulting.com](http://www.captechconsulting.com) - [http://twitter.com/CapTechListens](http://twitter.com/CapTechListens)- [http://github.com/monarchapis](http://github.com/monarchapis)
-- Monkeypod[http://monkeypod.io](http://monkeypod.io) - [https://twitter.com/Monkeypodio](https://twitter.com/Monkeypodio)
-- Mozilla Brick[http://brick.mozilla.io/](http://brick.mozilla.io/) - [https://twitter.com/mozbrick](https://twitter.com/mozbrick)- [https://github.com/mozbrick/](https://github.com/mozbrick/)
-- MuleSoft[http://www.mulesoft.com/](http://www.mulesoft.com/) - [https://twitter.com/MuleSoft](https://twitter.com/MuleSoft)- [https://github.com/mulesoft](https://github.com/mulesoft)
-- Nagios[https://www.nagios.com](https://www.nagios.com) - [https://twitter.com/nagiosinc](https://twitter.com/nagiosinc)- [https://github.com/NagiosEnterprises](https://github.com/NagiosEnterprises)
-- Natural Docs[https://www.naturaldocs.org](https://www.naturaldocs.org) - [http://www.twitter.com](http://www.twitter.com)- [https://github.com/NaturalDocs/NaturalDocs](https://github.com/NaturalDocs/NaturalDocs)
-- Neo4j[https://neo4j.com/](https://neo4j.com/) - [https://twitter.com/neo4j](https://twitter.com/neo4j)- [https://github.com/neo4j](https://github.com/neo4j)
-- Neotys[http://www.neotys.com](http://www.neotys.com) - [https://twitter.com/neotys](https://twitter.com/neotys)
-- Neptune Software[http://www.neptune-software.com](http://www.neptune-software.com)
-- Netatmo[http://www.netatmo.com](http://www.netatmo.com) - [https://twitter.com/netatmo](https://twitter.com/netatmo)- [https://github.com/netatmo](https://github.com/netatmo)
-- NetLicensing[http://netlicensing.io](http://netlicensing.io) - [https://twitter.com/netlicensing](https://twitter.com/netlicensing)- [https://github.com/Labs64/](https://github.com/Labs64/)
-- Netty[http://netty.io/](http://netty.io/) - [https://twitter.com/netty_project](https://twitter.com/netty_project)- [https://github.com/netty/netty](https://github.com/netty/netty)
-- Nevatech[http://www.nevatech.com](http://www.nevatech.com) - [https://twitter.com/nevatechinc](https://twitter.com/nevatechinc)
-- New Relic[https://newrelic.com/](https://newrelic.com/) - [http://www.twitter.com/NewRelic](http://www.twitter.com/NewRelic)- [https://github.com/newrelic](https://github.com/newrelic)
-- NGINX[http://www.nginx.com](http://www.nginx.com) - [http://twitter.com/nginxorg](http://twitter.com/nginxorg)- [https://github.com/nginx](https://github.com/nginx)
-- Nimbella[http://nimbella.com](http://nimbella.com)
-- Nodal[http://stdlib.com](http://stdlib.com) - [https://twitter.com/keithwhor](https://twitter.com/keithwhor)- [https://github.com/keithwhor/nodal](https://github.com/keithwhor/nodal)
-- Nordic API Gateway[https://nordicapigateway.com/](https://nordicapigateway.com/)
-- Nordic APIs[http://nordicapis.com](http://nordicapis.com) - [https://twitter.com/nordicapis](https://twitter.com/nordicapis)
-- Nylas[http://www.nylas.com](http://www.nylas.com) - [https://twitter.com/nylas](https://twitter.com/nylas)- [https://github.com/nylas/](https://github.com/nylas/)
-- Oakland, CA[https://www.openoakland.org/](https://www.openoakland.org/)
-- OAS[http://openap.is](http://openap.is) - [https://github.com/readmeio/swagger-inline](https://github.com/readmeio/swagger-inline)
-- OAuth.io[https://try.oauth.io](https://try.oauth.io) - [https://twitter.com/OAuth_io](https://twitter.com/OAuth_io)- [https://github.com/oauth-io](https://github.com/oauth-io)
-- Observu[http://observu.com](http://observu.com)
-- OData.org[http://www.odata.org](http://www.odata.org) - [https://twitter.com/odataorg](https://twitter.com/odataorg)- [https://odata.github.io/RESTier/](https://odata.github.io/RESTier/)
-- oEmbed[http://oembed.com/](http://oembed.com/) - [http://twitter.yfrog.com/page/api#a8](http://twitter.yfrog.com/page/api#a8)- [http://leaverou.github.io/contrast-ratio/](http://leaverou.github.io/contrast-ratio/)
-- Office of Justice Programs[http://www.ojp.gov](http://www.ojp.gov) - [https://twitter.com/OJPgov](https://twitter.com/OJPgov)
-- Okta[http://www.okta.com](http://www.okta.com) - [https://twitter.com/OktaDev](https://twitter.com/OktaDev)- [https://github.com/oktadeveloper](https://github.com/oktadeveloper)
-- OneAll[http://www.oneall.com](http://www.oneall.com) - [https://twitter.com/oneall](https://twitter.com/oneall)- [https://github.com/oneall](https://github.com/oneall)
-- OpenLegacy[http://openlegacy.com](http://openlegacy.com) - [https://twitter.com/openlegacy](https://twitter.com/openlegacy)- [https://github.com/openlegacy](https://github.com/openlegacy)
-- OpenRasta[http://serialseb.com](http://serialseb.com) - [http://twitter.com/serialseb](http://twitter.com/serialseb)- [https://github.com/openrasta](https://github.com/openrasta)
-- OpenRepose[http://openrepose.org/](http://openrepose.org/) - [https://twitter.com/openrepose](https://twitter.com/openrepose)- [https://github.com/rackerlabs/mimic](https://github.com/rackerlabs/mimic)
-- OpenUMA[http://blogs.forgerock.org](http://blogs.forgerock.org) - [https://twitter.com/ForgeRock](https://twitter.com/ForgeRock)
-- OpsGen[http://www.opsgen.com](http://www.opsgen.com) - [https://twitter.com/OpsGenAPI](https://twitter.com/OpsGenAPI)
-- Optic[http://www.useoptic.com](http://www.useoptic.com)
-- OVH US[https://ovhcloud.com/](https://ovhcloud.com/) - [https://twitter.com/OVHcloud](https://twitter.com/OVHcloud)
-- PagerDuty[http://www.pagerduty.com/](http://www.pagerduty.com/) - [https://twitter.com/pagerduty](https://twitter.com/pagerduty)- [https://github.com/PagerDuty](https://github.com/PagerDuty)
-- Papertrail logs[https://papertrailapp.com/](https://papertrailapp.com/) - [http://twitter.com/papertrailapp](http://twitter.com/papertrailapp)- [https://github.com/papertrail](https://github.com/papertrail)
-- Parasoft[http://www.parasoft.com](http://www.parasoft.com) - [https://twitter.com/Parasoft](https://twitter.com/Parasoft)- [https://github.com/parasoft](https://github.com/parasoft)
-- PAW[https://paw.cloud](https://paw.cloud) - [https://twitter.com/LuckyMarmot](https://twitter.com/LuckyMarmot)- [https://github.com/luckymarmot](https://github.com/luckymarmot)
-- Perforce[]()
-- Pingdom[http://www.pingdom.com](http://www.pingdom.com) - [http://twitter.com/pingdom](http://twitter.com/pingdom)- [https://github.com/Pingdom](https://github.com/Pingdom)
-- Pingometer[https://pingometer.com/](https://pingometer.com/) - [https://twitter.com/dominos/status/540123404750565376](https://twitter.com/dominos/status/540123404750565376)- [https://github.com/pingometer](https://github.com/pingometer)
-- Plumbr[http://plumbr.io](http://plumbr.io) - [https://twitter.com/JavaPlumbr](https://twitter.com/JavaPlumbr)
-- PostGrest[http://postgrest.org](http://postgrest.org) - [https://github.com/rtfd/sphinx_rtd_theme](https://github.com/rtfd/sphinx_rtd_theme)
-- Postman[https://www.postman.com](https://www.postman.com) - [https://twitter.com/getpostman](https://twitter.com/getpostman)- [https://github.com/postmanlabs](https://github.com/postmanlabs)
-- ProgrammableWeb[http://www.programmableweb.com](http://www.programmableweb.com) - [http://www.twitter.com/programmableweb](http://www.twitter.com/programmableweb)- [https://github.com/programmableweb](https://github.com/programmableweb)
-- Pronovix[https://pronovix.com](https://pronovix.com) - [http://twitter.com/medjawii](http://twitter.com/medjawii)- [https://github.com/Pronovix](https://github.com/Pronovix)
-- QualityLogic[http://www.qualitylogic.com](http://www.qualitylogic.com)
-- Ranorex[http://www.ranorex.com](http://www.ranorex.com) - [https://twitter.com/ranorex](https://twitter.com/ranorex)
-- RapidAPI[http://rapidapi.com](http://rapidapi.com) - [https://twitter.com/rapid_api](https://twitter.com/rapid_api)
-- Read the Docs[https://readthedocs.org/](https://readthedocs.org/) - [https://twitter.com/readthedocs](https://twitter.com/readthedocs)- [https://github.com/rtfd](https://github.com/rtfd)
-- ReadMe.io[https://readme.io/](https://readme.io/) - [https://twitter.com/readmeio](https://twitter.com/readmeio)- [https://github.com/readmeio](https://github.com/readmeio)
-- Reaktivity[http://reaktivity.org/](http://reaktivity.org/) - [https://github.com/reaktivity](https://github.com/reaktivity)
-- RepreZen API Studio[http://reprezen.com](http://reprezen.com) - [https://twitter.com/reprezen_API](https://twitter.com/reprezen_API)- [https://github.com/reprezen](https://github.com/reprezen)
-- REST Hooks[http://resthooks.org](http://resthooks.org) - [https://github.com/zapier/resthooks](https://github.com/zapier/resthooks)
-- REST United[http://restunited.com](http://restunited.com) - [https://twitter.com/restunited](https://twitter.com/restunited)
-- RestCase[http://www.restcase.com](http://www.restcase.com) - [https://twitter.com/RestCaseApi](https://twitter.com/RestCaseApi)- [https://github.com/restcase](https://github.com/restcase)
-- RESTdesc[http://restdesc.org/](http://restdesc.org/)
-- RESTFiddle[http://www.restfiddle.com/](http://www.restfiddle.com/) - [https://twitter.com/restfiddle](https://twitter.com/restfiddle)- [https://github.com/AnujaK/restfiddle](https://github.com/AnujaK/restfiddle)
-- RESTX[http://restx.io](http://restx.io) - [https://twitter.com/restx_](https://twitter.com/restx_)- [https://github.com/xhanin](https://github.com/xhanin)
-- Rigor[http://rigor.com](http://rigor.com)
-- Runscope[http://runscope.com](http://runscope.com) - [https://twitter.com/Runscope](https://twitter.com/Runscope)- [https://github.com/Runscope](https://github.com/Runscope)
-- sap.com[https://www.sap.com/index.html](https://www.sap.com/index.html) - [https://twitter.com/sapdevs](https://twitter.com/sapdevs)- [https://github.com/sap](https://github.com/sap)
-- Selenium[http://www.diemol.com](http://www.diemol.com) - [https://twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)- [https://github.com/SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
-- Seneca JS[http://senecajs.org](http://senecajs.org) - [https://twitter.com/senecajs](https://twitter.com/senecajs)- [https://github.com/senecajs/seneca/contributors](https://github.com/senecajs/seneca/contributors)
-- Sensedia[http://www.sensedia.com](http://www.sensedia.com) - [https://www.twitter.com/Sensedia](https://www.twitter.com/Sensedia)
-- Senya[https://senya.io/](https://senya.io/)
-- Server Density[https://www.serverdensity.com](https://www.serverdensity.com) - [https://twitter.com/serverdensity](https://twitter.com/serverdensity)- [https://github.com/serverdensity](https://github.com/serverdensity)
-- Serverless[http://serverless.com](http://serverless.com) - [https://twitter.com/goserverless/](https://twitter.com/goserverless/)- [https://github.com/serverless/](https://github.com/serverless/)
-- ServersCheck[https://www.serverscheck.com](https://www.serverscheck.com)
-- Service Stack[http://servicestack.net](http://servicestack.net) - [https://twitter.com/AlexandruVPop](https://twitter.com/AlexandruVPop)- [https://github.com/ServiceStackApps/LiveDemos](https://github.com/ServiceStackApps/LiveDemos)
-- Sheetlabs[https://sheetlabs.com](https://sheetlabs.com) - [https://twitter.com/sheetlabs](https://twitter.com/sheetlabs)
-- Site24x7[https://www.site24x7.com/](https://www.site24x7.com/) - [https://twitter.com/site24x7](https://twitter.com/site24x7)- [https://github.com/site24x7](https://github.com/site24x7)
-- SlashDB[http://slashdb.com](http://slashdb.com) - [https://twitter.com/slash_db](https://twitter.com/slash_db)- [https://github.com/SlashDB](https://github.com/SlashDB)
-- SmartAPI[https://smart-api.info](https://smart-api.info) - [https://github.com/smartapi](https://github.com/smartapi)
-- SmartBear Software[https://smartbear.com/](https://smartbear.com/) - [http://twitter.com/smartbear](http://twitter.com/smartbear)- [https://github.com/SmartBear/msword-collaborator-addin](https://github.com/SmartBear/msword-collaborator-addin)
-- SnapLogic[http://www.snaplogic.com](http://www.snaplogic.com) - [http://twitter.com/SnapLogic](http://twitter.com/SnapLogic)- [https://github.com/google/guice/wiki/InstanceBindings](https://github.com/google/guice/wiki/InstanceBindings)
-- SoapUI[http://www.soapui.org](http://www.soapui.org) - [https://twitter.com/soapui](https://twitter.com/soapui)
-- Solace[https://solace.com/](https://solace.com/) - [https://twitter.com/solacedotcom](https://twitter.com/solacedotcom)- [https://github.com/solacedev](https://github.com/solacedev)
-- Speca.io[https://speca.io](https://speca.io) - [https://twitter.com/specaio](https://twitter.com/specaio)
-- Speedway[http://speedway.app](http://speedway.app)
-- Stackery[https://www.stackery.io](https://www.stackery.io) - [https://twitter.com/stackeryio](https://twitter.com/stackeryio)- [https://github.com/stackery](https://github.com/stackery)
-- StatusPage[https://www.statuspage.io/](https://www.statuspage.io/) - [https://twitter.com/atlassian](https://twitter.com/atlassian)- [https://github.com/Rebilly/ReDoc](https://github.com/Rebilly/ReDoc)
-- StopLight[https://stoplight.io](https://stoplight.io) - [https://twitter.com/stoplightio](https://twitter.com/stoplightio)- [https://github.com/stoplightio](https://github.com/stoplightio)
-- Strapi[http://strapi.io](http://strapi.io) - [https://twitter.com/strapijs](https://twitter.com/strapijs)- [https://github.com/strapi](https://github.com/strapi)
-- StrongLoop[http://www.strongloop.com](http://www.strongloop.com) - [https://twitter.com/StrongLoop](https://twitter.com/StrongLoop)- [https://github.com/strongloop](https://github.com/strongloop)
-- Swagger[http://swagger.io](http://swagger.io) - [http://twitter.com/smartbear](http://twitter.com/smartbear)- [https://github.com/swagger-api](https://github.com/swagger-api)
-- Talend[https://www.talend.com](https://www.talend.com) - [http://twitter.com/talend](http://twitter.com/talend)- [https://github.com/Talend](https://github.com/Talend)
-- TeejLab API Discovery[https://apidiscovery.teejlab.com/about-us/](https://apidiscovery.teejlab.com/about-us/)
-- TestDevLab[http://www.testdevlab.com](http://www.testdevlab.com)
-- TestMace[http://testmace.com](http://testmace.com)
-- Testpoint.io[http://testpoint.io](http://testpoint.io) - [https://github.com/ausdigital/](https://github.com/ausdigital/)
-- TIBCO Software[http://tibco.com](http://tibco.com) - [https://twitter.com/tibco](https://twitter.com/tibco)- [https://github.com/TIBCOSoftware](https://github.com/TIBCOSoftware)
-- Tricentis[http://www.tricentis.com](http://www.tricentis.com)
-- Tyk[http://tyk.io/](http://tyk.io/) - [https://twitter.com/tyk_io](https://twitter.com/tyk_io)- [https://github.com/TykTechnologies](https://github.com/TykTechnologies)
-- Unigma[http://www.unigma.com](http://www.unigma.com) - [https://twitter.com/UnigmaApp](https://twitter.com/UnigmaApp)
-- Uptrends[http://www.uptrends.com](http://www.uptrends.com) - [https://www.twitter.com/uptrendsmonitor](https://www.twitter.com/uptrendsmonitor)- [https://github.com/Uptrends](https://github.com/Uptrends)
-- Vamp[http://vamp.io](http://vamp.io) - [https://twitter.com/vamp_io](https://twitter.com/vamp_io)
-- Vasco[https://www.vasco.com](https://www.vasco.com) - [https://twitter.com/OneSpan](https://twitter.com/OneSpan)
-- Visual Expert[http://powerbuildertv.com](http://powerbuildertv.com) - [https://twitter.com/PowerBuilderTV](https://twitter.com/PowerBuilderTV)
-- Visual Paradigm[http://www.visual-paradigm.com](http://www.visual-paradigm.com) - [https://twitter.com/visualparadigm](https://twitter.com/visualparadigm)
-- vREST[http://vrest.io](http://vrest.io) - [https://twitter.com/vrest_io](https://twitter.com/vrest_io)
-- WaveMaker[https://www.wavemaker.com](https://www.wavemaker.com) - [https://twitter.com/WaveMaker](https://twitter.com/WaveMaker)- [https://github.com/wavemaker](https://github.com/wavemaker)
-- Web Concepts[http://webconcepts.info/](http://webconcepts.info/)
-- Webhooks.io[http://webhooks.io](http://webhooks.io) - [https://twitter.com/webhooksio](https://twitter.com/webhooksio)- [https://github.com/webhooks-io](https://github.com/webhooks-io)
-- weblab[https://weblab.io](https://weblab.io) - [https://twitter.com/weblabhq](https://twitter.com/weblabhq)
-- Webscripts[https://webscript.io](https://webscript.io) - [https://twitter.com/webscriptio](https://twitter.com/webscriptio)- [https://github.com/WebScript](https://github.com/WebScript)
-- Webtask[https://webtask.io](https://webtask.io) - [https://twitter.com/webtaskio](https://twitter.com/webtaskio)
-- WrapAPI[https://wrapapi.com](https://wrapapi.com)
-- WSO2[http://wso2.com](http://wso2.com) - [https://twitter.com/wso2](https://twitter.com/wso2)- [https://github.com/wso2](https://github.com/wso2)
-- Yappes[http://www.yappes.com](http://www.yappes.com) - [https://twitter.com/yappestech](https://twitter.com/yappestech)
-- Zapier[http://zapier.com](http://zapier.com) - [https://twitter.com/zapier](https://twitter.com/zapier)- [https://github.com/zapier](https://github.com/zapier)
-- Zeit[https://vercel.com](https://vercel.com) - [https://twitter.com/zeithq](https://twitter.com/zeithq)- [https://github.com/zeit/](https://github.com/zeit/)
+Top 250 Repos (Markdown)
+- [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) - (forks: 6456) (stars: 17676) (watchers: 17676) - the openapi specification repository
+- [fastapi](https://github.com/tiangolo/fastapi) - (forks: 942) (stars: 14208) (watchers: 14208) - fastapi framework, high performance, easy to learn, fast to code, ready for production
+- [redoc](https://github.com/Redocly/redoc) - (forks: 1108) (stars: 9444) (watchers: 9444) - 📘 openapi/swagger-generated api reference documentation
+- [grpc gateway](https://github.com/grpc-ecosystem/grpc-gateway) - (forks: 1120) (stars: 8514) (watchers: 8514) - grpc to json proxy generator following the grpc http spec
+- [openapi generator](https://github.com/OpenAPITools/openapi-generator) - (forks: 1946) (stars: 5383) (watchers: 5383) - openapi generator allows generation of api client libraries (sdk generation), server stubs, documentation and configuration automatically given an openapi spec (v2, v3)
+- [go restful](https://github.com/emicklei/go-restful) - (forks: 577) (stars: 3761) (watchers: 3761) - package for building rest-style web services using go
+- [NSwag](https://github.com/RicoSuter/NSwag) - (forks: 703) (stars: 3501) (watchers: 3501) - the swagger/openapi toolchain for .net, asp.net core and typescript.
+- [dredd](https://github.com/apiaryio/dredd) - (forks: 262) (stars: 3371) (watchers: 3371) - language-agnostic http api testing tool
+- [connexion](https://github.com/zalando/connexion) - (forks: 542) (stars: 3150) (watchers: 3150) - swagger/openapi first framework for python on top of flask with automatic endpoint validation & oauth2 support
+- [autorest](https://github.com/Azure/autorest) - (forks: 545) (stars: 2861) (watchers: 2861) - openapi (f.k.a swagger) specification code generator. supports c#, powershell, go, java, node.js, typescript, python, ruby
+- [loopback next](https://github.com/strongloop/loopback-next) - (forks: 499) (stars: 2810) (watchers: 2810) - loopback makes it easy to build modern api applications that require complex integrations.
+- [light 4j](https://github.com/networknt/light-4j) - (forks: 468) (stars: 2789) (watchers: 2789) - a fast, lightweight and more productive microservices framework
+- [swag](https://github.com/swaggo/swag) - (forks: 386) (stars: 2668) (watchers: 2668) - automatically generate restful api documentation with swagger 2.0 for go.
+- [php crud api](https://github.com/mevdschee/php-crud-api) - (forks: 801) (stars: 2428) (watchers: 2428) - single file php script that adds a rest api to a sql database
+- [flasgger](https://github.com/flasgger/flasgger) - (forks: 299) (stars: 2104) (watchers: 2104) - easy openapi specs and swagger ui for your flask api
+- [openapi directory](https://github.com/APIs-guru/openapi-directory) - (forks: 346) (stars: 1936) (watchers: 1936) - 🌐 wikipedia for web apis. directory of rest api definitions in openapi 2.0/3.0 format
+- [swagger ui](https://github.com/swagger-api/swagger-ui) - (forks: 1522) (stars: 0) (watchers: 2627) - swagger ui is a dependency-free collection of html, javascript, and css assets that dynamically generate beautiful documentation from a swagger-compliant api.
+- [mockoon](https://github.com/mockoon/mockoon) - (forks: 105) (stars: 1938) (watchers: 1938) - mockoon is the easiest and quickest way to run mock apis locally. no remote deployment, no account required, open source.
+- [full stack fastapi postgr](https://github.com/tiangolo/full-stack-fastapi-postgresql) - (forks: 293) (stars: 1838) (watchers: 1838) - full stack, modern web application generator. using fastapi, postgresql as database, docker, automatic https and more.
+- [azure rest api specs](https://github.com/Azure/azure-rest-api-specs) - (forks: 1991) (stars: 712) (watchers: 712) - the source for rest api specifications for microsoft azure.
+- [drf yasg](https://github.com/axnsan12/drf-yasg) - (forks: 233) (stars: 1588) (watchers: 1588) - automated generation of real swagger/openapi 2.0 schemas from django rest framework code.
+- [swagger core](https://github.com/swagger-api/swagger-core) - (forks: 837) (stars: 0) (watchers: 2501) - examples and server integrations for generating the swagger api specification, which enables easy access to your rest api
+- [aliyun openapi java sdk](https://github.com/aliyun/aliyun-openapi-java-sdk) - (forks: 907) (stars: 993) (watchers: 993) - alibaba cloud sdk for java
+- [restful react](https://github.com/contiamo/restful-react) - (forks: 78) (stars: 1362) (watchers: 1362) - a consistent, declarative way of interacting with restful backends, featuring code-generation from swagger and openapi specs 🔥
+- [flask restplus server exa](https://github.com/frol/flask-restplus-server-example) - (forks: 298) (stars: 1133) (watchers: 1133) - real-life restful server example on flask-restplus
+- [prism](https://github.com/stoplightio/prism) - (forks: 105) (stars: 1188) (watchers: 1188) - turn any openapi2/3 and postman collection file into an api server with mocking, transformations and validations.
+- [spectacle](https://github.com/sourcey/spectacle) - (forks: 232) (stars: 1097) (watchers: 1097) - beautiful static documentation generator for openapi/swagger 2.0
+- [dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - (forks: 259) (stars: 1078) (watchers: 1078) - dreamfactory api management platform
+- [tsoa](https://github.com/lukeautry/tsoa) - (forks: 238) (stars: 1045) (watchers: 1045) - build openapi-compliant rest apis using typescript and node
+- [intellij swagger](https://github.com/zalando/intellij-swagger) - (forks: 57) (stars: 1005) (watchers: 1005) - a plugin to help you easily edit swagger and openapi specification files inside intellij idea
+- [aliyun openapi php sdk](https://github.com/aliyun/aliyun-openapi-php-sdk) - (forks: 771) (stars: 584) (watchers: 584) - [abandoned] open api sdk for php developers
+- [wizard](https://github.com/mylxsw/wizard) - (forks: 147) (stars: 891) (watchers: 891) - wizard是一款开源的文档管理工具，支持markdown/swagger/table类型的文档。
+- [aliyun openapi python sdk](https://github.com/aliyun/aliyun-openapi-python-sdk) - (forks: 464) (stars: 694) (watchers: 694) - alibaba cloud sdk for python
+- [fusio](https://github.com/apioo/fusio) - (forks: 121) (stars: 843) (watchers: 843) - open source api management platform
+- [rswag](https://github.com/rswag/rswag) - (forks: 194) (stars: 709) (watchers: 709) - seamlessly adds a swagger to rails-based api's
+- [aliyun sdk js](https://github.com/aliyun-UED/aliyun-sdk-js) - (forks: 185) (stars: 696) (watchers: 696) - 阿里云 sdk for javascript，支持在浏览器和 nodejs 环境使用，支持大部分阿里云服务。
+- [apispec](https://github.com/marshmallow-code/apispec) - (forks: 117) (stars: 723) (watchers: 723) - a pluggable api specification generator. currently supports the openapi specification (f.k.a. the swagger specification)..
+- [openapi gui](https://github.com/Mermade/openapi-gui) - (forks: 96) (stars: 733) (watchers: 733) - gui / visual editor for creating and editing openapi / swagger definitions
+- [openapi to graphql](https://github.com/IBM/openapi-to-graphql) - (forks: 80) (stars: 738) (watchers: 738) - translate apis described by openapi specifications (oas) into graphql
+- [widdershins](https://github.com/Mermade/widdershins) - (forks: 208) (stars: 665) (watchers: 665) - openapi / swagger, asyncapi & semoasa definitions to slate / shins compatible markdown
+- [Angular SpringBoot REST J](https://github.com/mrin9/Angular-SpringBoot-REST-JWT) - (forks: 400) (stars: 543) (watchers: 543) - springboot, angular and jwt security - example project based on northwind order processing
+- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) - (forks: 85) (stars: 666) (watchers: 666) - the openapi.net sdk contains a useful object model for openapi documents in .net along with common serializers to extract raw openapi json and yaml documents from the model.
+- [aliyun openapi net sdk](https://github.com/aliyun/aliyun-openapi-net-sdk) - (forks: 520) (stars: 406) (watchers: 406) - alibaba cloud sdk for .net
+- [gnostic](https://github.com/googleapis/gnostic) - (forks: 76) (stars: 625) (watchers: 625) - a compiler for apis described by the openapi specification with plugins for code generation and other api support tasks.
+- [api spec converter](https://github.com/LucyBot-Inc/api-spec-converter) - (forks: 91) (stars: 616) (watchers: 616) - convert api descriptions between popular formats such as openapi(fka swagger), raml, api blueprint, wadl, etc.
+- [springdoc openapi](https://github.com/springdoc/springdoc-openapi) - (forks: 97) (stars: 607) (watchers: 607) - library for openapi 3 with spring-boot
+- [swagger parser](https://github.com/APIDevTools/swagger-parser) - (forks: 96) (stars: 604) (watchers: 604) - swagger 2.0 and openapi 3.0 parser/validator
+- [BERT NER](https://github.com/kamalkraj/BERT-NER) - (forks: 150) (stars: 576) (watchers: 576) - pytorch-named-entity-recognition-with-bert
+- [apicurio studio](https://github.com/Apicurio/apicurio-studio) - (forks: 224) (stars: 534) (watchers: 534) - open source api design
+- [openapi2proto](https://github.com/nytimes/openapi2proto) - (forks: 71) (stars: 594) (watchers: 594) - a tool for generating protobuf v3 schemas and grpc service definitions from openapi specifications
+- [speccy](https://github.com/wework/speccy) - (forks: 70) (stars: 576) (watchers: 576) - well spectually 🤓 enforce quality rules on your openapi 3.0.x specifications.
+- [spectral](https://github.com/stoplightio/spectral) - (forks: 58) (stars: 565) (watchers: 565) - a flexible json/yaml linter for creating automated style guides, with baked in support for openapi v2 & v3.
+- [swagger express middlewar](https://github.com/APIDevTools/swagger-express-middleware) - (forks: 192) (stars: 495) (watchers: 495) - swagger 2.0 middlware and mocks for express.js
+- [swagger](https://github.com/nestjs/swagger) - (forks: 131) (stars: 513) (watchers: 513) - openapi (swagger) module for nest framework (node.js) :earth_americas:
+- [bravado](https://github.com/Yelp/bravado) - (forks: 109) (stars: 509) (watchers: 509) - bravado is a python client library for swagger 2.0 services
+- [swagger codegen](https://github.com/swagger-api/swagger-codegen) - (forks: 408) (stars: 0) (watchers: 718) - swagger-codegen contains a template-driven engine to generate client code in different languages by parsing your swagger resource declaration.
+- [kin openapi](https://github.com/getkin/kin-openapi) - (forks: 111) (stars: 503) (watchers: 503) - openapi 3.0 implementation for go (parsing, converting, validation, and more)
+- [tapir](https://github.com/softwaremill/tapir) - (forks: 104) (stars: 498) (watchers: 498) - tapir, or typed api descriptions
+- [generator express no stre](https://github.com/cdimascio/generator-express-no-stress) - (forks: 70) (stars: 477) (watchers: 477) - 🚂 a yeoman generator for express.js based 12-factor apps and apis
+- [oapi codegen](https://github.com/deepmap/oapi-codegen) - (forks: 97) (stars: 440) (watchers: 440) - generate go client and server boilerplate from openapi 3 specifications
+- [oas kit](https://github.com/Mermade/oas-kit) - (forks: 84) (stars: 436) (watchers: 436) - convert swagger 2.0 definitions to openapi 3.0 and resolve/validate/lint
+- [open api](https://github.com/kogosoftwarellc/open-api) - (forks: 137) (stars: 387) (watchers: 387) - a monorepo of various packages to power openapi in node
+- [create openapi repo](https://github.com/Redocly/create-openapi-repo) - (forks: 59) (stars: 419) (watchers: 419) - 🤖 generator for gh repo to help you manage the openapi definition lifecycle
+- [sanic openapi](https://github.com/huge-success/sanic-openapi) - (forks: 90) (stars: 400) (watchers: 400) - easily document your sanic api with a ui
+- [nirvana](https://github.com/caicloud/nirvana) - (forks: 88) (stars: 400) (watchers: 400) - golang restful api framework for productivity
+- [apisprout](https://github.com/danielgtaylor/apisprout) - (forks: 49) (stars: 416) (watchers: 416) - lightweight, blazing fast, cross-platform openapi 3 mock server with validation
+- [DataFire](https://github.com/DataFire/DataFire) - (forks: 62) (stars: 401) (watchers: 401) - a framework for building integrations and apis
+- [uvicorn gunicorn fastapi ](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - (forks: 51) (stars: 393) (watchers: 393) - docker image with uvicorn managed by gunicorn for high-performance fastapi web applications in python 3.6 and above with performance auto-tuning. optionally with alpine linux.
+- [awesome openapi3](https://github.com/APIs-guru/awesome-openapi3) - (forks: 37) (stars: 398) (watchers: 398) - 😎 a list of awesome projects related to openapi 3.0.x, curated by the community
+- [Reading](https://github.com/Hankkin/Reading) - (forks: 45) (stars: 390) (watchers: 390) - 🍑reading是一款基于wanandroid openapi开发的阅读类工具，如果你是一个热衷于android开发者，那么这款软件能帮助你阅读精品android文章。 同时reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"kotlin+mvp"架构开发，风格大概也许属于material desgin原质化风格，包含主题颜色切换、百变logo、 等功能。在此感谢wanandroid的openapi, 以及其它开源项目的贡献。
+- [shins](https://github.com/Mermade/shins) - (forks: 316) (stars: 247) (watchers: 247) - shins is not slate - port of slate markdown renderer to node.js
+- [vue crud x](https://github.com/ais-one/vue-crud-x) - (forks: 104) (stars: 343) (watchers: 343) - vue+express cookbook & crud component
+- [guardrail](https://github.com/twilio/guardrail) - (forks: 83) (stars: 341) (watchers: 341) - principled code generation from openapi specifications
+- [bootprint openapi](https://github.com/bootprint/bootprint-openapi) - (forks: 54) (stars: 327) (watchers: 327) - bootprint-module to render openapi specifications, this repository has moved to https://github.com/bootprint/bootprint-monorepo/tree/master/packages/bootprint-openapi
+- [django rest swagger](https://github.com/marcgibbons/django-rest-swagger) - (forks: 179) (stars: 0) (watchers: 517) - swagger documentation generator for django rest framework
+- [openapi sdk php](https://github.com/aliyun/openapi-sdk-php) - (forks: 58) (stars: 319) (watchers: 319) - alibaba cloud sdk for php
+- [SwagGen](https://github.com/yonaskolb/SwagGen) - (forks: 83) (stars: 302) (watchers: 302) - openapi/swagger 3.0 parser and swift code generator
+- [pyswagger](https://github.com/pyopenapi/pyswagger) - (forks: 62) (stars: 307) (watchers: 307) - an openapi (fka swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.
+- [openapi cop](https://github.com/EXXETA/openapi-cop) - (forks: 10) (stars: 325) (watchers: 325) - a proxy that validates responses and requests against an openapi document.
+- [springfox](https://github.com/springfox/springfox) - (forks: 219) (stars: 0) (watchers: 421) - spring mvc integration for swagger
+- [endpoints](https://github.com/julienrf/endpoints) - (forks: 68) (stars: 273) (watchers: 273) - scala library to define http-based communication protocols
+- [dapperdox](https://github.com/DapperDox/dapperdox) - (forks: 39) (stars: 267) (watchers: 267) - beautiful, integrated, openapi documentation.
+- [studio](https://github.com/stoplightio/studio) - (forks: 26) (stars: 271) (watchers: 271) - the modern editor for api design and technical writing.
+- [reservoir](https://github.com/acquia/reservoir) - (forks: 30) (stars: 267) (watchers: 267) - a back end for your front end: a content repository. powered by drupal 8, json api and oauth2.
+- [Mirakurun](https://github.com/Chinachu/Mirakurun) - (forks: 40) (stars: 259) (watchers: 259) - a modern dtv tuner server service for isdb.
+- [express openapi validator](https://github.com/cdimascio/express-openapi-validator) - (forks: 51) (stars: 253) (watchers: 253) - 🦋 auto-validates api requests, responses, and securities using expressjs and an openapi 3.x specification
+- [optic](https://github.com/opticdev/optic) - (forks: 15) (stars: 257) (watchers: 257) - apis that document & test themselves
+- [generator express no stre](https://github.com/cdimascio/generator-express-no-stress-typescript) - (forks: 29) (stars: 248) (watchers: 248) - 🚄 a yeoman generator for express.js based 12-factor apps and apis using typescript
+- [swagger cli](https://github.com/APIDevTools/swagger-cli) - (forks: 35) (stars: 241) (watchers: 241) - swagger 2.0 and openapi 3.0 command-line tool
+- [openapi map](https://github.com/arno-di-loreto/openapi-map) - (forks: 46) (stars: 234) (watchers: 234) - the openapi map (fka. openapi specification visual document) aims to help you find your way in the openapi specification (fka. swagger specification) documentation.
+- [openapi to postman](https://github.com/postmanlabs/openapi-to-postman) - (forks: 58) (stars: 223) (watchers: 223) - plugin for converting openapi 3.0 specs to the postman collection (v2) format
+- [flask smorest](https://github.com/marshmallow-code/flask-smorest) - (forks: 31) (stars: 232) (watchers: 232) - db agnostic framework to build auto-documented rest apis with flask and marshmallow
+- [spec](https://github.com/go-openapi/spec) - (forks: 65) (stars: 209) (watchers: 209) - openapi specification object model
+- [api generator](https://github.com/SoliDry/api-generator) - (forks: 41) (stars: 218) (watchers: 218) - php-code generator for laravel framework, with complete support of json-api data format
+- [kubernetes json schema](https://github.com/garethr/kubernetes-json-schema) - (forks: 52) (stars: 212) (watchers: 212) - a set of json schemas for various kubernetes versions, extracted from the openapi definitions
+- [RapiDoc](https://github.com/mrin9/RapiDoc) - (forks: 51) (stars: 211) (watchers: 211) - rapidoc - custom-element for openapi spec
+- [oax](https://github.com/darosh/oax) - (forks: 38) (stars: 216) (watchers: 216) - openapi specification explorer
+- [node skeleton](https://github.com/tvvignesh/node-skeleton) - (forks: 23) (stars: 222) (watchers: 222) - an nodejs boilerplate packaged with typescript, docker, kubernetes, pm2, eslint, prettier, vscode config, winston, typedoc, nodemon, ava, promclient, jwt, editorconfig, openapi/swagger, jaeger/open tracing, etc.
+- [Pode](https://github.com/Badgerati/Pode) - (forks: 29) (stars: 218) (watchers: 218) - pode is a cross-platform powershell web framework for creating rest apis, web sites, and tcp/smtp servers
+- [janephp](https://github.com/janephp/janephp) - (forks: 51) (stars: 207) (watchers: 207) - :seedling: jane is a set of libraries to generate models & api clients based on json schema / openapi specs
+- [openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - (forks: 114) (stars: 174) (watchers: 174) - a collection of editors, linters, parsers, code generators, documentation, testing
+- [php openapi](https://github.com/cebe/php-openapi) - (forks: 27) (stars: 213) (watchers: 213) - read and write openapi yaml/json files and make the content accessible in php objects.
+- [5GC_APIs](https://github.com/jdegre/5GC_APIs) - (forks: 94) (stars: 177) (watchers: 177) - restful apis of main network functions in the 3gpp 5g core network
+- [hapi openapi](https://github.com/krakenjs/hapi-openapi) - (forks: 70) (stars: 185) (watchers: 185) - build design-driven apis with openapi (formerly swagger) 2.0 and hapi.
+- [drf_openapi](https://github.com/limdauto/drf_openapi) - (forks: 43) (stars: 194) (watchers: 194) - [deprecated] beautiful django rest framework api documentation autogeneration through openapi standard
+- [swagger to ts](https://github.com/manifoldco/swagger-to-ts) - (forks: 38) (stars: 195) (watchers: 195) - generate typescript types from swagger openapi specs
+- [sway](https://github.com/apigee-127/sway) - (forks: 84) (stars: 171) (watchers: 171) - a library that simplifies openapi (fka swagger) integrations/tooling.
+- [openapi](https://github.com/janephp/openapi) - (forks: 32) (stars: 195) (watchers: 195) - deprecated see https://github.com/janephp/janephp
+- [safrs](https://github.com/thomaxxl/safrs) - (forks: 43) (stars: 186) (watchers: 186) - sqlalchemy flask-restful swagger json-api openapi
+- [openapi demo java](https://github.com/open-dingtalk/openapi-demo-java) - (forks: 98) (stars: 155) (watchers: 155) - 钉钉企业应用接入-jsapi权限验证-java demo
+- [raml dotnet tools](https://github.com/mulesoft-labs/raml-dotnet-tools) - (forks: 59) (stars: 170) (watchers: 170) - visual studio extension to work with raml and oas (openapi) specifications. you can consume rest apis, scaffold asp.net implementations and extract raml specifications from existing asp.net apps.
+- [openapi codegen](https://github.com/Mermade/openapi-codegen) - (forks: 38) (stars: 180) (watchers: 180) - openapi 3.0 codegen plus node.js minus the java and emojis
+- [SwaggerProvider](https://github.com/fsprojects/SwaggerProvider) - (forks: 53) (stars: 172) (watchers: 172) - f# generative type provider for swagger
+- [generators](https://github.com/wrannaman/generators) - (forks: 16) (stars: 184) (watchers: 184) - api generator - instantly generate rest and graphql apis (openapi (oas) 3.0.0)
+- [mentorship backend](https://github.com/anitab-org/mentorship-backend) - (forks: 237) (stars: 73) (watchers: 73) - mentorship system is an application that matches women in tech to mentor each other, on career development, through 1:1 relations during a certain period of time. this is the backend of this system.
+- [full stack fastapi couchb](https://github.com/tiangolo/full-stack-fastapi-couchbase) - (forks: 32) (stars: 175) (watchers: 175) - full stack, modern web application generator. using fastapi, couchbase as database, docker, automatic https and more.
+- [paperclip](https://github.com/wafflespeanut/paperclip) - (forks: 22) (stars: 180) (watchers: 180) - wip openapi tooling for rust.
+- [gradle swagger generator ](https://github.com/int128/gradle-swagger-generator-plugin) - (forks: 49) (stars: 162) (watchers: 162) - gradle plugin for openapi yaml validation, code generation and api document publishing
+- [openapi sdk php client](https://github.com/aliyun/openapi-sdk-php-client) - (forks: 34) (stars: 168) (watchers: 168) - official repository of the alibaba cloud client for php
+- [swagger node codegen](https://github.com/fmvilas/swagger-node-codegen) - (forks: 42) (stars: 163) (watchers: 163) - an openapi 3.x/swagger 2 code generator for node.js
+- [esi issues](https://github.com/esi/esi-issues) - (forks: 20) (stars: 165) (watchers: 165) - issue tracking and feature requests for esi
+- [curlx](https://github.com/shivkanthb/curlx) - (forks: 3) (stars: 171) (watchers: 171) - ◼️ supercharge curl with history, collections and more.
+- [grpc swagger](https://github.com/grpc-swagger/grpc-swagger) - (forks: 26) (stars: 158) (watchers: 158) - debugging grpc application with swagger-ui.
+- [PSSwagger](https://github.com/PowerShell/PSSwagger) - (forks: 32) (stars: 155) (watchers: 155) - the cmdlet generator from openapi (f.k.a swagger) specification
+- [proteus](https://github.com/noboomu/proteus) - (forks: 14) (stars: 163) (watchers: 163) - lean, mean, and incredibly fast jvm framework for web and microservice development.
+- [openapi psr7 validator](https://github.com/lezhnev74/openapi-psr7-validator) - (forks: 12) (stars: 164) (watchers: 164) - it validates psr-7 messages (http request/response) against openapi specifications
+- [openapi3 ts](https://github.com/metadevpro/openapi3-ts) - (forks: 34) (stars: 153) (watchers: 153) - ts model & utils for openapi 3.0.x contracts.
+- [openapi](https://github.com/stripe/openapi) - (forks: 35) (stars: 150) (watchers: 150) - an openapi specification for the stripe api.
+- [angular swagger ui](https://github.com/Orange-OpenSource/angular-swagger-ui) - (forks: 73) (stars: 130) (watchers: 130) - an angularjs implementation of swagger ui
+- [invest openapi](https://github.com/TinkoffCreditSystems/invest-openapi) - (forks: 19) (stars: 156) (watchers: 156) - Документация для Тинькофф Инвестиции openapi
+- [documentation starter](https://github.com/LucyBot-Inc/documentation-starter) - (forks: 41) (stars: 142) (watchers: 142) - interactive rest api documentation
+- [openapi generator cli](https://github.com/OpenAPITools/openapi-generator-cli) - (forks: 27) (stars: 148) (watchers: 148) - a node package wrapper for https://github.com/openapitools/openapi-generator
+- [imposter](https://github.com/outofcoffee/imposter) - (forks: 24) (stars: 147) (watchers: 147) - scriptable, multipurpose mock server.
+- [json schema to openapi sc](https://github.com/wework/json-schema-to-openapi-schema) - (forks: 24) (stars: 147) (watchers: 147) - a little nodejs package to convert json schema to openapi schema objects
+- [runtime](https://github.com/go-openapi/runtime) - (forks: 92) (stars: 113) (watchers: 113) - openapi runtime interfaces
+- [kotlin openapi spring fun](https://github.com/cdimascio/kotlin-openapi-spring-functional-template) - (forks: 35) (stars: 141) (watchers: 141) - 🍃 kotlin spring 5 webflux functional application with api request validation and interactive api doc
+- [RESTinstance](https://github.com/asyrjasalo/RESTinstance) - (forks: 50) (stars: 132) (watchers: 132) - robot framework library for restful json apis
+- [OpenAPI.NET.CSharpAnnotat](https://github.com/microsoft/OpenAPI.NET.CSharpAnnotations) - (forks: 26) (stars: 143) (watchers: 143) - generates openapi document from c# annotations
+- [ogcapi features](https://github.com/opengeospatial/ogcapi-features) - (forks: 45) (stars: 133) (watchers: 133) - an open standard for querying geospatial information on the web.
+- [oooas](https://github.com/goldspecdigital/oooas) - (forks: 4) (stars: 152) (watchers: 152) - an object oriented approach to generating openapi specs, implemented in php.
+- [xero node](https://github.com/XeroAPI/xero-node) - (forks: 110) (stars: 99) (watchers: 99) - xero node sdk for oauth 2.0 generated from xeroapi/xero-openapi
+- [openapi core nodejs sdk](https://github.com/aliyun/openapi-core-nodejs-sdk) - (forks: 32) (stars: 136) (watchers: 136) - openapi pop core sdk for node.js
+- [SwaggerAssertions](https://github.com/Maks3w/SwaggerAssertions) - (forks: 28) (stars: 137) (watchers: 137) - assert your api requests and responses match with your swagger definition
+- [api first hand](https://github.com/ebowman/api-first-hand) - (forks: 20) (stars: 141) (watchers: 141) - api-first bootstrapping tool for building restful web services from a swagger/openapi spec
+- [openapi demo php](https://github.com/injekt/openapi-demo-php) - (forks: 104) (stars: 96) (watchers: 96) -
+- [OpenAPI Style Guide](https://github.com/OAI/OpenAPI-Style-Guide) - (forks: 28) (stars: 133) (watchers: 133) - how to (and how not to) refer to the oai in meetups, interviews, casual conversations, the settling of bar bets, and for conference presentations.
+- [bravado core](https://github.com/Yelp/bravado-core) - (forks: 84) (stars: 104) (watchers: 104) -
+- [kube openapi](https://github.com/kubernetes/kube-openapi) - (forks: 92) (stars: 99) (watchers: 99) - kubernetes openapi spec generation & serving
+- [RestRserve](https://github.com/rexyai/RestRserve) - (forks: 14) (stars: 136) (watchers: 136) - r web api framework for building high-performance microservices and app backends
+- [openapi backend](https://github.com/anttiviljami/openapi-backend) - (forks: 26) (stars: 129) (watchers: 129) - build, validate, route, authenticate and mock using openapi
+- [flama](https://github.com/perdy/flama) - (forks: 12) (stars: 136) (watchers: 136) - 🔥 fire up your api with this flamethrower
+- [hikaku](https://github.com/codecentric/hikaku) - (forks: 9) (stars: 137) (watchers: 137) - a library that tests if the implementation of a rest-api meets its specification.
+- [slack api specs](https://github.com/slackapi/slack-api-specs) - (forks: 36) (stars: 122) (watchers: 122) - open api specifications for platform products by slack
+- [restdocs api spec](https://github.com/ePages-de/restdocs-api-spec) - (forks: 44) (stars: 118) (watchers: 118) - adds api specification support to spring rest docs
+- [gemini](https://github.com/gemini-projects/gemini) - (forks: 17) (stars: 131) (watchers: 131) - model driven rest framework to automatically generate crud apis
+- [public_api_specs](https://github.com/nytimes/public_api_specs) - (forks: 33) (stars: 120) (watchers: 120) - the api specs (in openapi/swagger) for the apis available from developer.nytimes.com
+- [openapi psr7 validator](https://github.com/thephpleague/openapi-psr7-validator) - (forks: 23) (stars: 124) (watchers: 124) - it validates psr-7 messages (http request/response) against openapi specifications
+- [swagger_meqa](https://github.com/meqaio/swagger_meqa) - (forks: 13) (stars: 128) (watchers: 128) - auto generate and run tests using swagger/openapi spec, no coding needed
+- [BERT NER TF](https://github.com/kamalkraj/BERT-NER-TF) - (forks: 37) (stars: 116) (watchers: 116) - named entity recognition with bert using tensorflow 2.0
+- [pygeoapi](https://github.com/geopython/pygeoapi) - (forks: 58) (stars: 101) (watchers: 101) - pygeoapi is a python server implementation of the ogc api suite of standards. the project emerged as part of the next generation ogc api efforts in 2018 and provides the capability for organizations to deploy a restful ogc api endpoint using openapi, geojson, and html. pygeoapi is open source and released under an mit license.
+- [vs swagger viewer](https://github.com/arjun-g/vs-swagger-viewer) - (forks: 38) (stars: 111) (watchers: 111) - swagger viewer lets you preview and validate swagger 2.0 and openapi files as you type in visual studio code.
+- [openapi spec validator](https://github.com/p1c2u/openapi-spec-validator) - (forks: 24) (stars: 116) (watchers: 116) - openapi spec validator
+- [openapi diff](https://github.com/quen2404/openapi-diff) - (forks: 45) (stars: 104) (watchers: 104) - utility for comparing two openapi specifications.
+- [routing controllers opena](https://github.com/epiphone/routing-controllers-openapi) - (forks: 22) (stars: 114) (watchers: 114) - runtime openapi v3 schema generation for routing-controllers.
+- [js client](https://github.com/netlify/js-client) - (forks: 25) (stars: 112) (watchers: 112) - a open-api derived js + node.js api client for netlify
+- [graphql binding openapi](https://github.com/graphql-binding/graphql-binding-openapi) - (forks: 7) (stars: 121) (watchers: 121) - graphql binding implementation for openapi/swagger endpoints
+- [openapi demo java](https://github.com/injekt/openapi-demo-java) - (forks: 79) (stars: 83) (watchers: 83) -
+- [open api renderer](https://github.com/temando/open-api-renderer) - (forks: 5) (stars: 120) (watchers: 120) - 🎩 a react renderer for openapi v3.
+- [jersey jwt](https://github.com/cassiomolin/jersey-jwt) - (forks: 24) (stars: 110) (watchers: 110) - example of rest api with jwt authentication using jersey, jackson, undertow, weld, hibernate and arquillian.
+- [swagger_to_uml](https://github.com/nlohmann/swagger_to_uml) - (forks: 31) (stars: 105) (watchers: 105) - convert openapi specifications (a.k.a. swagger) to plantuml diagrams
+- [openapi2jsonschema](https://github.com/instrumenta/openapi2jsonschema) - (forks: 33) (stars: 103) (watchers: 103) - convert openapi definitions into json schemas for all types in the api
+- [terraform provider openap](https://github.com/dikhan/terraform-provider-openapi) - (forks: 23) (stars: 107) (watchers: 107) - openapi terraform provider that configures itself at runtime with the resources exposed by the service provider (defined in a swagger file)
+- [NetCore Clean Architectur](https://github.com/INNVTV/NetCore-Clean-Architecture) - (forks: 30) (stars: 100) (watchers: 100) - .net core starter project for clean architecture showcasing use of the cqrs pattern, mediatr and custom middleware for cross-cutting concerns, micro-service communications with rest/openapi, swagger, webhooks and grpc endpoints, cosmosdb for data and serilog for logging.
+- [spot](https://github.com/airtasker/spot) - (forks: 6) (stars: 112) (watchers: 112) - spot is a concise, developer-friendly way to describe your api contract.
+- [express oas generator](https://github.com/mpashkovskiy/express-oas-generator) - (forks: 24) (stars: 102) (watchers: 102) - openapi (swagger) specification generator for expressjs applications
+- [zero rails_openapi](https://github.com/zhandao/zero-rails_openapi) - (forks: 17) (stars: 105) (watchers: 105) - concise dsl for generating openapi specification 3 (oas3) json documentation for ruby application.
+- [openapi core](https://github.com/p1c2u/openapi-core) - (forks: 62) (stars: 82) (watchers: 82) - openapi core
+- [openapi validator](https://github.com/IBM/openapi-validator) - (forks: 21) (stars: 102) (watchers: 102) - configurable and extensible validator/linter for openapi documents
+- [exegesis](https://github.com/exegesis-js/exegesis) - (forks: 25) (stars: 100) (watchers: 100) - tools for implementing server-side openapi 3.0.0
+- [KaiZen OpenApi Parser](https://github.com/RepreZen/KaiZen-OpenApi-Parser) - (forks: 28) (stars: 98) (watchers: 98) - high-performance parser, validator, and java object model for openapi 3.x
+- [light rest 4j](https://github.com/networknt/light-rest-4j) - (forks: 24) (stars: 100) (watchers: 100) - a restful framework built on top of light-4j with both swagger 2.0 and openapi 3.0 supports
+- [swagger axios codegen](https://github.com/Manweill/swagger-axios-codegen) - (forks: 36) (stars: 92) (watchers: 92) - swagger client to use axios and typescript
+- [k8s openapi](https://github.com/Arnavion/k8s-openapi) - (forks: 12) (stars: 104) (watchers: 104) - rust bindings for the kubernetes client api
+- [prance](https://github.com/jfinkhaeuser/prance) - (forks: 15) (stars: 102) (watchers: 102) - resolving swagger/openapi 2.0 and 3.0 parser
+- [invest openapi java sdk](https://github.com/TinkoffCreditSystems/invest-openapi-java-sdk) - (forks: 28) (stars: 95) (watchers: 95) -
+- [slack php api](https://github.com/jolicode/slack-php-api) - (forks: 19) (stars: 98) (watchers: 98) - :hash: php slack client based on the official openapi specification
+- [openapi mock](https://github.com/muonsoft/openapi-mock) - (forks: 11) (stars: 100) (watchers: 100) - swagger mock server with fake data generation support
+- [dredd example](https://github.com/apiaryio/dredd-example) - (forks: 57) (stars: 75) (watchers: 75) - example application using dredd and ci
+- [ng openapi gen](https://github.com/cyclosproject/ng-openapi-gen) - (forks: 31) (stars: 87) (watchers: 87) - an openapi 3.0 codegen for angular
+- [api2html](https://github.com/tobilg/api2html) - (forks: 18) (stars: 93) (watchers: 93) - a cli tool to transform swagger/openapi/asyncapi docs to beautiful html pages via shins/widdershins.
+- [mattermost api reference](https://github.com/mattermost/mattermost-api-reference) - (forks: 104) (stars: 46) (watchers: 46) - mattermost api reference documentation.
+- [openapi client](https://github.com/mikestead/openapi-client) - (forks: 31) (stars: 82) (watchers: 82) - generate es6 or typescript service integration code from an openapi 2 spec
+- [odata openapi](https://github.com/oasis-tcs/odata-openapi) - (forks: 39) (stars: 78) (watchers: 78) - oasis odata tc: tools for producing api descriptions for odata services that adhere to the openapi specification
+- [datamodel code generator](https://github.com/koxudaxi/datamodel-code-generator) - (forks: 12) (stars: 89) (watchers: 89) - this generator creates pydantic mode from an openapi file.
+- [koa oai router](https://github.com/amazing-gao/koa-oai-router) - (forks: 16) (stars: 87) (watchers: 87) - koa router, based on openapi, swagger and json schema.
+- [AndroidHttp](https://github.com/LiushuiXiaoxia/AndroidHttp) - (forks: 16) (stars: 87) (watchers: 87) - android http网络开发神兵利器
+- [openapi cli generator](https://github.com/danielgtaylor/openapi-cli-generator) - (forks: 17) (stars: 86) (watchers: 86) - generate a cli from an openapi 3 specification
+- [KaiZen OpenAPI Editor](https://github.com/RepreZen/KaiZen-OpenAPI-Editor) - (forks: 8) (stars: 90) (watchers: 90) - eclipse editor for the swagger-openapi description language
+- [go restful openapi](https://github.com/emicklei/go-restful-openapi) - (forks: 41) (stars: 71) (watchers: 71) - openapi extension in go for the go-restful package
+- [swurg](https://github.com/aress31/swurg) - (forks: 26) (stars: 77) (watchers: 77) - parse openapi documents into burp suite for automating openapi-based apis security assessments (approved by portswigger for inclusion in their official bapp store).
+- [yii2 openapi](https://github.com/cebe/yii2-openapi) - (forks: 6) (stars: 86) (watchers: 86) - rest api application generator for yii2, openapi 3.0 yaml -> yii2
+- [http router](https://github.com/sunrise-php/http-router) - (forks: 6) (stars: 86) (watchers: 86) - :tada: release 2.0 is released! very fast http router for php 7.1+ based on psr-7 and psr-15 with support for annotations and openapi (swagger)
+- [swag](https://github.com/go-openapi/swag) - (forks: 26) (stars: 75) (watchers: 75) - goodie bag in use in the go-openapi projects
+- [openapi validation middle](https://github.com/hkarlstrom/openapi-validation-middleware) - (forks: 12) (stars: 82) (watchers: 82) - psr-7 and psr-15 openapi validation middleware
+- [yamlinc](https://github.com/javanile/yamlinc) - (forks: 17) (stars: 79) (watchers: 79) - compose multiple yaml files into one with $include tag, split swagger/openapi into multiple yaml files.
+- [oas tools](https://github.com/isa-group/oas-tools) - (forks: 29) (stars: 73) (watchers: 73) - nodejs module to manage restful apis defined with openapi 3.0 specs over express servers.
+- [serverless openapi docume](https://github.com/temando/serverless-openapi-documentation) - (forks: 52) (stars: 61) (watchers: 61) - serverless 1.0 plugin to generate openapi v3 documentation from serverless configuration
+- [Swiftgger](https://github.com/mczachurski/Swiftgger) - (forks: 10) (stars: 82) (watchers: 82) - openapi support for server side swift projects.
+- [openapi client axios](https://github.com/anttiviljami/openapi-client-axios) - (forks: 7) (stars: 83) (watchers: 83) - javascript client library for consuming openapi-enabled apis with axios
+- [swaggman](https://github.com/grokify/swaggman) - (forks: 19) (stars: 76) (watchers: 76) - convert openapi 3.0 and openapi / swagger 2.0 specs to postman 2.0 collections. example ringcentral spec included.
+- [dataclasses jsonschema](https://github.com/s-knibbs/dataclasses-jsonschema) - (forks: 19) (stars: 73) (watchers: 73) - json schema generation from dataclasses
+- [APIFuzzer](https://github.com/KissPeter/APIFuzzer) - (forks: 22) (stars: 71) (watchers: 71) - fuzz test your application using your swagger, openapi or api blueprint definition without coding
+- [RapiPdf](https://github.com/mrin9/RapiPdf) - (forks: 18) (stars: 72) (watchers: 72) - pdf generation from openapi / swagger spec
+- [openapi viewer](https://github.com/koumoul-dev/openapi-viewer) - (forks: 7) (stars: 77) (watchers: 77) - browse and test a rest api described with the openapi 3.0 specification
+- [swagger angular generator](https://github.com/jnwltr/swagger-angular-generator) - (forks: 32) (stars: 64) (watchers: 64) - generator of api layer in typescript for angular 2+ apps
+- [compojure api](https://github.com/metosin/compojure-api) - (forks: 20) (stars: 0) (watchers: 139) - swaggered compojure web apis
+- [api doc parser](https://github.com/api-platform/api-doc-parser) - (forks: 48) (stars: 55) (watchers: 55) - transforms a hydra api doc in an intermediate representation that can be used for various tasks such as creating smart api clients, scaffolding code or building administration interfaces.
+- [openapi3 generator](https://github.com/openapi-contrib/openapi3-generator) - (forks: 26) (stars: 65) (watchers: 65) - use your api openapi 3 definition to generate code, documentation, and literally anything you need.
+- [openapi sampler](https://github.com/Redocly/openapi-sampler) - (forks: 18) (stars: 69) (watchers: 69) - :capital_abcd: tool for generation samples based on openapi(fka swagger) payload/response schema
+- [tcases](https://github.com/Cornutum/tcases) - (forks: 28) (stars: 63) (watchers: 63) - a model-based test case generator
+- [openapi validator middlew](https://github.com/PayU/openapi-validator-middleware) - (forks: 33) (stars: 60) (watchers: 60) - input validation using swagger (open api) and ajv
+- [vscode openapi](https://github.com/42Crunch/vscode-openapi) - (forks: 3) (stars: 75) (watchers: 75) -
+- [OpenAPIKit](https://github.com/mattpolzin/OpenAPIKit) - (forks: 6) (stars: 73) (watchers: 73) - codable swift openapi implementation.
+- [go](https://github.com/kubernetes-client/go) - (forks: 24) (stars: 64) (watchers: 64) - openapi based generated go client for kubernetes
+- [aliyun openapi cpp sdk](https://github.com/aliyun/aliyun-openapi-cpp-sdk) - (forks: 43) (stars: 54) (watchers: 54) - alibaba cloud sdk for c++
+- [openapi](https://github.com/sphinx-contrib/openapi) - (forks: 43) (stars: 52) (watchers: 52) - openapi (fka swagger) spec renderer for sphinx.
+- [okapi](https://github.com/GREsau/okapi) - (forks: 11) (stars: 68) (watchers: 68) - openapi (aka swagger) document generation for rust projects
+- [openapi designer](https://github.com/apinf/openapi-designer) - (forks: 17) (stars: 65) (watchers: 65) - design interface for creating open api (swagger) specification files
+- [apisnoop](https://github.com/cncf/apisnoop) - (forks: 25) (stars: 61) (watchers: 61) - ⭕️snooping on the kubernetes openapi communications
+- [openapi schema to json sc](https://github.com/mikunn/openapi-schema-to-json-schema) - (forks: 8) (stars: 69) (watchers: 69) - converts openapi schema object to json schema
+- [aliyun openapi nodejs sdk](https://github.com/aliyun/aliyun-openapi-nodejs-sdk) - (forks: 14) (stars: 66) (watchers: 66) - alibaba cloud sdk for node.js
+- [validate](https://github.com/go-openapi/validate) - (forks: 34) (stars: 56) (watchers: 56) - openapi toolkit validation helpers
+- [Swagger EZ](https://github.com/RhinoSecurityLabs/Swagger-EZ) - (forks: 13) (stars: 66) (watchers: 66) - a tool geared towards pentesting apis using openapi definitions.
+- [openapi mock generator](https://github.com/Fredx87/openapi-mock-generator) - (forks: 3) (stars: 70) (watchers: 70) - progressive web app for generating mocked data from an openapi specification
+- [OpenAPI Python](https://github.com/KKBOX/OpenAPI-Python) - (forks: 11) (stars: 65) (watchers: 65) - the kkbox open api sdk for python.
+- [swagger model validator](https://github.com/swagger-model-validator/swagger-model-validator) - (forks: 35) (stars: 53) (watchers: 53) - a javascript validator for swagger models
+- [OpenAPI JavaScript](https://github.com/KKBOX/OpenAPI-JavaScript) - (forks: 11) (stars: 64) (watchers: 64) - kkbox open api sdk for javascript.
+- [umdio](https://github.com/umdio/umdio) - (forks: 19) (stars: 60) (watchers: 60) - an open api for the university of maryland
+- [rororo](https://github.com/playpauseandstop/rororo) - (forks: 4) (stars: 67) (watchers: 67) - openapi 3 schema support for aiohttp.web applications.
+- [share api](https://github.com/ShuangRen/share-api) - (forks: 8) (stars: 65) (watchers: 65) - api doc for swagger json and open api 2.0
+- [OpenApi](https://github.com/Dragonexio/OpenApi) - (forks: 30) (stars: 53) (watchers: 53) - dragonex openapi
+- [invest openapi js sdk](https://github.com/TinkoffCreditSystems/invest-openapi-js-sdk) - (forks: 17) (stars: 59) (watchers: 59) -
+- [oas](https://github.com/readmeio/oas) - (forks: 11) (stars: 61) (watchers: 61) - easily create and manage openapi documents.
+- [connect api specification](https://github.com/square/connect-api-specification) - (forks: 31) (stars: 51) (watchers: 51) - this repository contains the openapi specification as well as templates for generating sdks for square's apis
+- [vue openapi](https://github.com/koumoul-dev/vue-openapi) - (forks: 12) (stars: 60) (watchers: 60) - openapi viewer component for vuejs
+- [sport api specifications](https://github.com/erunion/sport-api-specifications) - (forks: 14) (stars: 59) (watchers: 59) - openapi 3.0 specifications for various sport apis.
+- [OpenAPI.NET.OData](https://github.com/microsoft/OpenAPI.NET.OData) - (forks: 19) (stars: 56) (watchers: 56) - generates openapi document from odata csdl
+- [intellij openapi generato](https://github.com/jimschubert/intellij-openapi-generator) - (forks: 7) (stars: 62) (watchers: 62) - work in progress intellij plugin for swagger codegen
+- [oav](https://github.com/Azure/oav) - (forks: 36) (stars: 47) (watchers: 47) - tools for validating openapi (swagger) files.
+- [koa joi router docs](https://github.com/chuyik/koa-joi-router-docs) - (forks: 22) (stars: 54) (watchers: 54) - a swagger api docs generator from koa-joi-router routes.
 
 These are pulled from the GitHub API, so if there are any missing, please add an issue.
