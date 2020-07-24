@@ -28,3 +28,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 - [July 24th 2020](https://youtu.be/IwdL29waRSw)
 - [July 17th 2020](https://youtu.be/bP7PScrtrVQ)
+
+## Effort Sponsored by Postman
+The work to lead this effort is being funded by Postman as part of it's support of the OpenAPI Initiative (OAI).
+<img src="https://kinlane-productions.s3.amazonaws.com/openapi/postman-openapi-together.png" width="100%">
