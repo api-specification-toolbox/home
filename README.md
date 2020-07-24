@@ -22,7 +22,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - **[Service Providers](https://github.com/oai-demandgen/service-providers)** - Tracking on all of the individual service providers within this repo.
 - **[Tooling](https://github.com/oai-demandgen/tooling)** - Tracking on all of the open source tooling that is available and in use in community.
 - **[People](https://github.com/oai-demandgen/people)** - Trying to build a list of all the people who are talking about OpenAPI across community.
-- **[Vocabulary](https://github.com/oai-demandgen/vocabulary)** - Working to nail down a common vocabulary for how we talk about everything OpenAPI.
+- **[Taxonomy](https://github.com/oai-demandgen/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
 
 ## Past OAI Demand Generation Office Hours
 
