@@ -20,7 +20,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 - **[Home](https://github.com/oai-demandgen/home)** - This is the landing page for everything, with overall conversation thread as issues.
 - **[Service Providers](https://github.com/oai-demandgen/service-providers)** - Tracking on all of the individual service providers within this repo.
-- **[Tooling](https://github.com/oai-demandgen/tooling)** - Tracking on all of the open source tooling that is available and in use in community.
+- **[Tools](https://github.com/oai-demandgen/tools)** - Tracking on all of the open source tooling that is available and in use in community.
 - **[People](https://github.com/oai-demandgen/people)** - Trying to build a list of all the people who are talking about OpenAPI across community.
 - **[Taxonomy](https://github.com/oai-demandgen/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
 
