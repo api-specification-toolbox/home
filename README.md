@@ -15,6 +15,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 - [Ideas](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) - Submit your ideas for what you think would help generate more demand for the OpenAPI spec.
 - [In Motion](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being moved forward in some way, and have an owner helping lead the way.
+- [OAI Marketing](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being taken to the OAI marketing meeting to see if we can get more support.
 
 ## Current Repositories
 
@@ -26,9 +27,10 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Past OAI Demand Generation Office Hours
 
+- [July 31st 2020](https://youtu.be/zPBzFsO9FVY)
 - [July 24th 2020](https://youtu.be/IwdL29waRSw)
 - [July 17th 2020](https://youtu.be/bP7PScrtrVQ)
 
 ## Effort Sponsored by Postman
-The work to lead this effort is being funded by Postman as part of it's support of the OpenAPI Initiative (OAI).
+This effort is being funded by Postman as part of it's support of the OpenAPI Initiative (OAI).
 <img src="https://kinlane-productions.s3.amazonaws.com/openapi/postman-openapi-together.png" width="100%">
