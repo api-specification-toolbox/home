@@ -27,6 +27,8 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Past OAI Demand Generation Office Hours
 
+- [August 14th 2020](https://youtu.be/ynZ4uzB5mdU)
+- [August 7th 2020](https://youtu.be/TpSlNGyRdYM)
 - [July 31st 2020](https://youtu.be/zPBzFsO9FVY)
 - [July 24th 2020](https://youtu.be/IwdL29waRSw)
 - [July 17th 2020](https://youtu.be/bP7PScrtrVQ)
