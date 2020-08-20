@@ -1,11 +1,11 @@
-# OpenAPI Initiative (OAI) Demand Generation
-This is a GitHub organization dedicated to generating demand around the OpenAPI specification and its community. It is in alignment with the OAI, but is meant to allow for a wider reach across the community, and increased level of involvement by non-members.
+# API Specification Toolbox
+This is a GitHub organization dedicated to generating demand around API specification and the people, services, and tooling around them. Working independent of any organization or company to help drive attention and demand for common API specifications.
 
-Things are just getting started, and you are encouraged to get involved to help increase awareness about what is possible with the OpenAPI specification, and the services and tooling built on top of them.
+Things are just getting started, and you are encouraged to get involved to help increase awareness about what is possible with API specifications, and the services and tooling built on top of them.
 
 A couple ways you can get involved today:
 
-- **Weekly Open Office Hours** - You can join in the conversation each week in the OAI DemandGen Open Office Hours, 8:00 AM Pacific time--just email [info@apievangelist.com](mailto:info@apievangelist.com) to get added to the invite.
+- **Weekly Open Office Hours** - You can join in the conversation each week in the API Specification Toolbox Open Office Hours, 8:00 AM Pacific time--just email [info@apievangelist.com](mailto:info@apievangelist.com) to get added to the invite.
 - **GitHub Issues** - We are using GitHub issues to organize ideas, and activities around this work. Please submit a GitHub issue for any question or idea you might have, or just email [info@apievangelist.com](mailto:info@apievangelist.com) for private channel.
 - **[Event Calendar](https://calendar.google.com/calendar?cid=Y29vOGVqZGluMjFqdGoxajBzZ2dhOXR1b29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)** - This is the public calendar for all events that are happening as part of this effort, allowing for the wider community to participate.
 
@@ -15,7 +15,6 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 - [Ideas](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) - Submit your ideas for what you think would help generate more demand for the OpenAPI spec.
 - [In Motion](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being moved forward in some way, and have an owner helping lead the way.
-- [OAI Marketing](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being taken to the OAI marketing meeting to see if we can get more support.
 
 ## Current Repositories
 
@@ -34,5 +33,5 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - [July 17th 2020](https://youtu.be/bP7PScrtrVQ)
 
 ## Effort Sponsored by Postman
-This effort is being funded by Postman as part of it's support of the OpenAPI Initiative (OAI).
-<img src="https://kinlane-productions.s3.amazonaws.com/openapi/postman-openapi-together.png" width="100%">
+This effort is being sponsored by Postman, and welcomes other support service providers in the space.
+<img src="https://postman-toolboxes.s3.amazonaws.com/assets/pm-logo-horiz.png" width="100%">
