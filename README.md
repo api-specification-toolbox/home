@@ -34,4 +34,4 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Effort Sponsored by Postman
 This effort is being sponsored by Postman, and welcomes other support service providers in the space.
-<img src="https://postman-toolboxes.s3.amazonaws.com/assets/pm-logo-horiz.png" width="50%">
+<img src="https://postman-toolboxes.s3.amazonaws.com/assets/pm-logo-horiz.png" width="50%" align="center">
