@@ -19,11 +19,12 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 ## Current Repositories
 
 - **[Home](https://github.com/api-specification-toolbox/home)** - This is the landing page for everything, with overall conversation thread as issues.
-- **[Service Providers](https://github.com/api-specification-toolbox/service-providers)** - Tracking on all of the individual service providers within this repo.
-- **[Tools](https://github.com/api-specification-toolbox/tools)** - Tracking on all of the open source tooling that is available and in use in community.
-- **[Questions](https://github.com/api-specification-toolbox/questiomns)** - Gathering some of the common questions asked about API specifications, and answering them via video and other formats.
+- **[Extensions](https://github.com/api-specification-toolbox/extensions)** - A place to define and work on ways of extending the specs, such as vendor extensions, overlays, etc.
 - **[People](https://github.com/api-specification-toolbox/people)** - Trying to build a list of all the people who are talking about OpenAPI across community.
+- **[Questions](https://github.com/api-specification-toolbox/questions)** - Gathering some of the common questions asked about API specifications, and answering them via video and other formats.
+- **[Service Providers](https://github.com/api-specification-toolbox/service-providers)** - **[Listing](https://api-specification-toolbox.github.io/service-providers/)** - Tracking on all of the individual service providers within this repo.
 - **[Taxonomy](https://github.com/api-specification-toolbox/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
+- **[Tools](https://github.com/api-specification-toolbox/tools)** - **[Listing](https://api-specification-toolbox.github.io/tools/)** Tracking on all of the open source tooling that is available and in use in community.
 
 ## Past OAI Demand Generation Office Hours
 
