@@ -13,19 +13,22 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Current issues
 
-- [Ideas](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) - Submit your ideas for what you think would help generate more demand for the OpenAPI spec.
-- [In Motion](https://github.com/oai-demandgen/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being moved forward in some way, and have an owner helping lead the way.
+- [Ideas](https://github.com/api-specification-toolbox/home/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) - Submit your ideas for what you think would help generate more demand for the OpenAPI spec.
+- [In Motion](https://github.com/api-specification-toolbox/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being moved forward in some way, and have an owner helping lead the way.
 
 ## Current Repositories
 
-- **[Home](https://github.com/oai-demandgen/home)** - This is the landing page for everything, with overall conversation thread as issues.
-- **[Service Providers](https://github.com/oai-demandgen/service-providers)** - Tracking on all of the individual service providers within this repo.
-- **[Tools](https://github.com/oai-demandgen/tools)** - Tracking on all of the open source tooling that is available and in use in community.
-- **[People](https://github.com/oai-demandgen/people)** - Trying to build a list of all the people who are talking about OpenAPI across community.
-- **[Taxonomy](https://github.com/oai-demandgen/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
+- **[Home](https://github.com/api-specification-toolbox/home)** - This is the landing page for everything, with overall conversation thread as issues.
+- **[Service Providers](https://github.com/api-specification-toolbox/service-providers)** - Tracking on all of the individual service providers within this repo.
+- **[Tools](https://github.com/api-specification-toolbox/tools)** - Tracking on all of the open source tooling that is available and in use in community.
+- **[Questions](https://github.com/api-specification-toolbox/questiomns)** - Gathering some of the common questions asked about API specifications, and answering them via video and other formats.
+- **[People](https://github.com/api-specification-toolbox/people)** - Trying to build a list of all the people who are talking about OpenAPI across community.
+- **[Taxonomy](https://github.com/api-specification-toolbox/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
 
 ## Past OAI Demand Generation Office Hours
 
+- [August 28th 2020](https://youtu.be/SPj3H_UJY-4)
+- [August 21st 2020](https://youtu.be/meQUdg8esjY)
 - [August 14th 2020](https://youtu.be/ynZ4uzB5mdU)
 - [August 7th 2020](https://youtu.be/TpSlNGyRdYM)
 - [July 31st 2020](https://youtu.be/zPBzFsO9FVY)
