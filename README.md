@@ -28,6 +28,8 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Past OAI Demand Generation Office Hours
 
+- [September 18th 2020](https://youtu.be/7bobypVudck)
+- [September 11th 2020](https://youtu.be/phDYPXmqLJI)
 - [August 28th 2020](https://youtu.be/SPj3H_UJY-4)
 - [August 21st 2020](https://youtu.be/meQUdg8esjY)
 - [August 14th 2020](https://youtu.be/ynZ4uzB5mdU)
@@ -38,4 +40,4 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Effort Sponsored by Postman
 This effort is being sponsored by Postman, and welcomes other support service providers in the space.
-<img src="https://postman-toolboxes.s3.amazonaws.com/assets/pm-logo-horiz.png" width="50%" align="center">
+<img src="https://postman-toolboxes2.s3.amazonaws.com/assets/pm-logo-horiz.png" width="50%" align="center">
