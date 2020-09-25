@@ -26,7 +26,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - **[Taxonomy](https://github.com/api-specification-toolbox/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
 - **[Tools](https://github.com/api-specification-toolbox/tools)** - **[Listing](https://api-specification-toolbox.github.io/tools/)** Tracking on all of the open source tooling that is available and in use in community.
 
-## Past OAI Demand Generation Office Hours
+## Past API Specification Toolbox Office Hours
 
 - [September 18th 2020](https://youtu.be/7bobypVudck)
 - [September 11th 2020](https://youtu.be/phDYPXmqLJI)
@@ -37,6 +37,11 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - [July 31st 2020](https://youtu.be/zPBzFsO9FVY)
 - [July 24th 2020](https://youtu.be/IwdL29waRSw)
 - [July 17th 2020](https://youtu.be/bP7PScrtrVQ)
+
+## Past API Specification Toolbox Conversations
+
+- [Fran Méndez, September 23rd 2020](https://youtu.be/st0IY_lmwyo)
+- [Marjukka Niinioja, September 18th 2020](https://youtu.be/Uw4YMANjnNQ)
 
 ## Effort Sponsored by Postman
 This effort is being sponsored by Postman, and welcomes other support service providers in the space.
