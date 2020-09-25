@@ -25,6 +25,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - **[Service Providers](https://github.com/api-specification-toolbox/service-providers)** - **[Listing](https://api-specification-toolbox.github.io/service-providers/)** - Tracking on all of the individual service providers within this repo.
 - **[Taxonomy](https://github.com/api-specification-toolbox/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
 - **[Tools](https://github.com/api-specification-toolbox/tools)** - **[Listing](https://api-specification-toolbox.github.io/tools/)** Tracking on all of the open source tooling that is available and in use in community.
+- **[Newsletter](https://github.com/api-specification-toolbox/newsletter)** - **[Listing](https://api-specification-toolbox.github.io/newsletter/)** Sending a weekly newsletter to highlight what is going on in the API specification place.
 
 ## Past API Specification Toolbox Office Hours
 
