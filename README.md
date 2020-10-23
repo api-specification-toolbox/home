@@ -27,6 +27,21 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - **[Tools](https://github.com/api-specification-toolbox/tools)** - **[Listing](https://api-specification-toolbox.github.io/tools/)** Tracking on all of the open source tooling that is available and in use in community.
 - **[Newsletter](https://github.com/api-specification-toolbox/newsletter)** - Sending a weekly newsletter to highlight what is going on in the API specification place.
 
+## General Specifications
+
+- [OpenAPI](https://www.openapis.org/)
+- [AsyncAPI](https://www.asyncapi.com/)
+- [JSON Schema](https://json-schema.org/)
+- [Postman Collections](https://www.postman.com/collection/)
+- [APIs.json](http://apisjson.org/)
+- [RAML](https://raml.org/)
+
+## Sector Spectifications
+
+- [Payment services (PSD 2) - Directive (EU)](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en)
+- [Fast Healthcare Interoperability Resources](https://www.hl7.org/fhir/overview.html)
+- [OpenTravel](https://opentravel.org/)
+
 ## Past API Specification Toolbox Office Hours
 
 - [September 25th 2020](https://youtu.be/ilbBBxfdkow)
