@@ -44,6 +44,8 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 
 ## Past API Specification Toolbox Office Hours
 
+- [December 4th 2020](https://youtu.be/uOZCfPZDmGw)
+- [November 20th 2020](https://youtu.be/FbsDqR-V7os)
 - [September 25th 2020](https://youtu.be/ilbBBxfdkow)
 - [September 18th 2020](https://youtu.be/7bobypVudck)
 - [September 11th 2020](https://youtu.be/phDYPXmqLJI)
