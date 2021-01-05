@@ -5,6 +5,7 @@ Things are just getting started, and you are encouraged to get involved to help 
 
 A couple ways you can get involved today:
 
+- **[Website](https://api.specificationtoolbox.com/)** - We now have a website you can visit to better understand what is happening as part of these API specification discussions.
 - **Weekly Open Office Hours** - You can join in the conversation each week in the API Specification Toolbox Open Office Hours, 8:00 AM Pacific time--just email [info@apievangelist.com](mailto:info@apievangelist.com) to get added to the invite.
 - **GitHub Issues** - We are using GitHub issues to organize ideas, and activities around this work. Please submit a GitHub issue for any question or idea you might have, or just email [info@apievangelist.com](mailto:info@apievangelist.com) for private channel.
 - **[Event Calendar](https://calendar.google.com/calendar?cid=Y29vOGVqZGluMjFqdGoxajBzZ2dhOXR1b29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)** - This is the public calendar for all events that are happening as part of this effort, allowing for the wider community to participate.
@@ -35,15 +36,27 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - [Postman Collections](https://www.postman.com/collection/)
 - [APIs.json](http://apisjson.org/)
 - [RAML](https://raml.org/)
+- [OpenID](https://openid.net/)
+- [OAuth 2.0](https://oauth.net/2/)
 
-## Sector Spectifications
+## Sector Specifications
 
 - [Payment services (PSD 2) - Directive (EU)](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en)
 - [Fast Healthcare Interoperability Resources](https://www.hl7.org/fhir/overview.html)
 - [OpenTravel](https://opentravel.org/)
+- [Financial Data Exchange](https://financialdataexchange.org/)
+- [Open Insurance Initiative](https://openinsurance.io/)
+- [Banking Industry Architecture Network](https://bian.org/participate/bian-webinars/bian-apis-future-banking-api-standards/)
+- [Open Financial Exchange (OFX)](https://www.ofx.net/index.html)
+- [Nacha](https://www.nacha.org/)
+- [Open Banking UK](https://www.openbanking.org.uk/)
+- [Financia-Grade API (FAPI)](https://openid.net/wg/fapi/)
+- [Convenient Access to PSD2/Payment-related Services (CAPS)](https://www.caps-services.com/)
 
 ## Past API Specification Toolbox Office Hours
 
+- [December 4th 2020](https://youtu.be/uOZCfPZDmGw)
+- [November 20th 2020](https://youtu.be/FbsDqR-V7os)
 - [September 25th 2020](https://youtu.be/ilbBBxfdkow)
 - [September 18th 2020](https://youtu.be/7bobypVudck)
 - [September 11th 2020](https://youtu.be/phDYPXmqLJI)
