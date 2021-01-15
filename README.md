@@ -15,20 +15,15 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 ## Current issues
 
 - [Ideas](https://github.com/api-specification-toolbox/home/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) - Submit your ideas for what you think would help generate more demand for the OpenAPI spec.
-- [In Motion](https://github.com/api-specification-toolbox/home/issues?q=is%3Aissue+is%3Aopen+label%3Ain-motion) - Ideas that are being moved forward in some way, and have an owner helping lead the way.
 
-## Current Repositories
+## Current Project Repositories ([Project Listing](http://api.specificationtoolbox.com/projects/))
 
 - **[Home](https://github.com/api-specification-toolbox/home)** - This is the landing page for everything, with overall conversation thread as issues.
-- **[Extensions](https://github.com/api-specification-toolbox/extensions)** - A place to define and work on ways of extending the specs, such as vendor extensions, overlays, etc.
 - **[People](https://github.com/api-specification-toolbox/people)** - Trying to build a list of all the people who are talking about OpenAPI across community.
 - **[Questions](https://github.com/api-specification-toolbox/questions)** - Gathering some of the common questions asked about API specifications, and answering them via video and other formats.
-- **[Service Providers](https://github.com/api-specification-toolbox/service-providers)** - **[Listing](https://api-specification-toolbox.github.io/service-providers/)** - Tracking on all of the individual service providers within this repo.
-- **[Taxonomy](https://github.com/api-specification-toolbox/taxonomy)** - Working to nail down a common taxonomy for how we talk about everything OpenAPI.
-- **[Tools](https://github.com/api-specification-toolbox/tools)** - **[Listing](https://api-specification-toolbox.github.io/tools/)** Tracking on all of the open source tooling that is available and in use in community.
 - **[Newsletter](https://github.com/api-specification-toolbox/newsletter)** - Sending a weekly newsletter to highlight what is going on in the API specification place.
 
-## General Specifications
+## General Specifications ([Specification List](http://api.specificationtoolbox.com/specifications/))
 
 - [OpenAPI](https://www.openapis.org/)
 - [AsyncAPI](https://www.asyncapi.com/)
@@ -39,7 +34,7 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - [OpenID](https://openid.net/)
 - [OAuth 2.0](https://oauth.net/2/)
 
-## Sector Specifications
+## Sector Specifications ([Sector List](http://api.specificationtoolbox.com/sectors/))
 
 - [Payment services (PSD 2) - Directive (EU)](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en)
 - [Fast Healthcare Interoperability Resources](https://www.hl7.org/fhir/overview.html)
@@ -68,11 +63,6 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - [July 31st 2020](https://youtu.be/zPBzFsO9FVY)
 - [July 24th 2020](https://youtu.be/IwdL29waRSw)
 - [July 17th 2020](https://youtu.be/bP7PScrtrVQ)
-
-## Past API Specification Toolbox Conversations
-
-- [Fran Méndez, September 23rd 2020](https://youtu.be/st0IY_lmwyo)
-- [Marjukka Niinioja, September 18th 2020](https://youtu.be/Uw4YMANjnNQ)
 
 ## Effort Sponsored by Postman
 This effort is being sponsored by Postman, and welcomes other support service providers in the space.
