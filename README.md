@@ -23,31 +23,6 @@ Right now we are just in idea phase, but some of these projects are rapidly movi
 - **[Questions](https://github.com/api-specification-toolbox/questions)** - Gathering some of the common questions asked about API specifications, and answering them via video and other formats.
 - **[Newsletter](https://github.com/api-specification-toolbox/newsletter)** - Sending a weekly newsletter to highlight what is going on in the API specification place.
 
-## General Specifications ([Specification List](http://api.specificationtoolbox.com/specifications/))
-
-- [OpenAPI](https://www.openapis.org/)
-- [AsyncAPI](https://www.asyncapi.com/)
-- [JSON Schema](https://json-schema.org/)
-- [Postman Collections](https://www.postman.com/collection/)
-- [APIs.json](http://apisjson.org/)
-- [RAML](https://raml.org/)
-- [OpenID](https://openid.net/)
-- [OAuth 2.0](https://oauth.net/2/)
-
-## Sector Specifications ([Sector List](http://api.specificationtoolbox.com/sectors/))
-
-- [Payment services (PSD 2) - Directive (EU)](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en)
-- [Fast Healthcare Interoperability Resources](https://www.hl7.org/fhir/overview.html)
-- [OpenTravel](https://opentravel.org/)
-- [Financial Data Exchange](https://financialdataexchange.org/)
-- [Open Insurance Initiative](https://openinsurance.io/)
-- [Banking Industry Architecture Network](https://bian.org/participate/bian-webinars/bian-apis-future-banking-api-standards/)
-- [Open Financial Exchange (OFX)](https://www.ofx.net/index.html)
-- [Nacha](https://www.nacha.org/)
-- [Open Banking UK](https://www.openbanking.org.uk/)
-- [Financia-Grade API (FAPI)](https://openid.net/wg/fapi/)
-- [Convenient Access to PSD2/Payment-related Services (CAPS)](https://www.caps-services.com/)
-
 ## Past API Specification Toolbox Office Hours
 
 - [January 8th 2021](https://youtu.be/IO4e7y6bMzQ)
